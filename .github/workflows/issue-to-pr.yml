@@ -1,0 +1,64 @@
+name: Issue to PR
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  issue-to-pr:
+    if: github.event.label.name == 'ready'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Determine issue type
+        id: issue-type
+        env:
+          LABELS: ${{ toJson(github.event.issue.labels.*.name) }}
+        run: |
+          if echo "$LABELS" | grep -q '"new-entry"'; then
+            echo "type=new-entry" >> "$GITHUB_OUTPUT"
+          elif echo "$LABELS" | grep -q '"update-entry"'; then
+            echo "type=update-entry" >> "$GITHUB_OUTPUT"
+          elif echo "$LABELS" | grep -q '"remove-entry"'; then
+            echo "type=remove-entry" >> "$GITHUB_OUTPUT"
+          else
+            echo "type=unknown" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Comment and skip if no type label
+        if: steps.issue-type.outputs.type == 'unknown'
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" \
+            --repo "$GITHUB_REPOSITORY" \
+            --body "The \`ready\` label was applied but this issue has no recognized type label (\`new-entry\`, \`update-entry\`, or \`remove-entry\`). No PR was created."
+
+      - name: Checkout
+        if: steps.issue-type.outputs.type != 'unknown'
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+
+      - name: Set up Deno
+        if: steps.issue-type.outputs.type != 'unknown'
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Run issue-to-pr script
+        if: steps.issue-type.outputs.type != 'unknown'
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_TYPE: ${{ steps.issue-type.outputs.type }}
+        run: deno run --allow-read --allow-write --allow-run --allow-env --allow-net scripts/issue-to-pr.ts

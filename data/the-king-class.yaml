@@ -1,0 +1,28 @@
+id: the-king-class
+title: 'The King: Shadowdark RPG Class'
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - King
+pages: 5
+desc: 'A Conan-inspired martial class. The King leads allies through danger, accumulates power through bold deeds rather than careful planning, and builds a living legend through conquest and adventure.'
+pub: Indie
+date: "2023-03-02"
+cover: 'https://img.itch.zone/aW1nLzE0MDUzOTczLnBuZw==/347x500/omDkxw.png'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/the-king'
+    language: en
+    type: ebook
+    pricing: free
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/428889/The-King--Shadowdark-RPG-Class'
+    language: en
+    type: ebook
+    pricing: paid

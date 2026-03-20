@@ -1,0 +1,31 @@
+id: soulblight-swords-and-sorceries
+title: Soulblight - Swords and Sorceries
+authors:
+  - Laurin David Weggen
+categories:
+  - Anthology
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+envs:
+  - Forest
+  - Desert
+  - Jungle
+  - Planar
+  - Sea
+  - Urban
+themes:
+  - Action
+  - Heist
+  - Religion
+desc: 'A free anthology of adventures covering the breadth of the Soulblight setting, taking parties across Lothorian''s varied environments, from jungle temples and desert ruins to planar expeditions and underworld oddities across the seven realms.'
+cover: 'https://img.itch.zone/aW1hZ2UvMzg1NjAwNS8yMzAwMzg0NC5qcGc=/347x500/Q7NZj2.jpg'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-swords-and-sorceries'
+    language: en
+    type: ebook
+    pricing: free
+pub: Indie
+date: "2025"

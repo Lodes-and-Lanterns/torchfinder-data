@@ -1,0 +1,22 @@
+id: one-with-nature-druid
+title: 'One With Nature: The Druid Class'
+authors:
+  - Jake Savala
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Druid
+desc: 'A free druid class. The Druid explores the natural world and channels its power in combat, including the ability to wild-shape into animal forms.'
+pub: Indie
+date: "2023-07-09"
+cover: 'https://img.itch.zone/aW1nLzk2MjQ1NzUucG5n/347x500/QZY8Xj.png'
+links:
+  - title: itch.io
+    url: 'https://brewin-druid.itch.io/one-with-nature-shadowdark-rpg'
+    language: en
+    type: ebook
+    pricing: free

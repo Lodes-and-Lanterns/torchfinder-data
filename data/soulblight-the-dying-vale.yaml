@@ -1,0 +1,27 @@
+id: soulblight-the-dying-vale
+title: Soulblight - The Dying Vale
+authors:
+  - Laurin David Weggen
+categories:
+  - Supplement
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+envs:
+  - Dungeon
+  - Wilderness
+lmin: 2
+lmax: 5
+desc: 'An 82-page Soulblight hexcrawl set in a region of Lothorian already lost to the Sovereigns'' corruption, populated by scattered survivors. Includes the Old Hero''s Tomb dungeon, 90+ new monsters, and mechanics for tracking the blight''s advance.'
+pages: 82
+cover: 'https://img.itch.zone/aW1nLzE1NzY2MTgwLnBuZw==/315x250%23cb/hx8RJH.png'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-the-dying-vale'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2024"

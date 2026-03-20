@@ -1,0 +1,27 @@
+id: soulblight-champions-of-lothorian
+title: Soulblight - Champions of Lothorian
+authors:
+  - Laurin David Weggen
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+character_options:
+  - Bard
+  - Dreamwalker
+  - Pyromancer
+  - Reaver
+  - Starspeaker
+  - Templar
+desc: 'The first character supplement for the Soulblight setting, adding six classes suited to Lothorian''s grim world: Bard, Dreamwalker, Pyromancer, Reaver, Starspeaker, and Templar. Includes 50+ new spells and magical abilities, two new magical disciplines, and shrine mechanics for Lothorian''s gods.'
+cover: 'https://img.itch.zone/aW1nLzEzMzg0NTE1LnBuZw==/315x250%23cb/eLahRr.png'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-champions-of-lothorian'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2023"

@@ -1,0 +1,22 @@
+id: ancient-talismans-whisperer
+title: 'Ancient Talismans: The Whisperer Class'
+authors:
+  - Jake Savala
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Whisperer
+desc: 'A free class blending physical combat with psychic ability. The Whisperer channels power through ancient talismans, combining martial capability with mental influence.'
+pub: Indie
+date: "2023"
+cover: 'https://img.itch.zone/aW1nLzgxNjYwNjguanBn/347x500/Jhc4hS.jpg'
+links:
+  - title: itch.io
+    url: 'https://brewin-druid.itch.io/the-whisperer-class'
+    language: en
+    type: ebook
+    pricing: free

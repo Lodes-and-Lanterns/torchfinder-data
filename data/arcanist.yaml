@@ -1,0 +1,22 @@
+id: arcanist
+title: Arcanist
+authors:
+  - William Murakami-Brundage
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Arcanist
+desc: 'A class supplement presenting three flavors of arcane practitioner: the faithful mage-priest, the cultist who serves arcane spirits, and the occultist who channels primordial sorcery.'
+pub: Menagerie Press
+date: "2023-06-30"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/5353/443455.webp'
+links:
+  - title: DriveThruRPG
+    url: https://www.drivethrurpg.com/en/product/443455/Shadowdark-Arcanist
+    language: en
+    type: ebook
+    pricing: paid

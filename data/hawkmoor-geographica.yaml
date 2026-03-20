@@ -1,0 +1,23 @@
+id: hawkmoor-geographica
+title: 'Hawkmoor Geographica'
+authors:
+  - James Mishler
+  - Jodi Moran-Mishler
+categories:
+  - Supplement
+  - Sandbox
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+pages: 48
+desc: 'A 48-page geographic gazetteer covering 70 regions of the Great Enchanted Vale in the Hawkmoor campaign setting, each with encounter tables. Provides GMs with detailed terrain to support sandbox play in Shadowdark.'
+pub: Indie
+date: "2023-09-17"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/453400.webp'
+links:
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/453400/hawkmoor-geographica-a-shadowdark-campaign-setting'
+    language: en
+    type: ebook
+    pricing: paid

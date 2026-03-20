@@ -1,0 +1,35 @@
+id: nightmare-at-castle-goldgloom
+title: 'The Nightmare at Castle Goldgloom'
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Adventure
+  - Funnel
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Stronghold
+  - Ruins
+themes:
+  - Horror
+lmin: 0
+lmax: 0
+pages: 20
+desc: 'A 0-level funnel set in an accursed ruined castle. A group of hapless villagers must delve into Castle Goldgloom, brave whatever horrors lurk in its nightmare-haunted halls, and make it back out alive... ideally with treasure.'
+pub: Indie
+date: "2021-12"
+cover: 'https://img.itch.zone/aW1hZ2UvMjg4ODc5Ni8xNzI3Njg3OC5qcGc=/347x500/lS3tmq.jpg'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/nightmare-at-castle-goldgloom'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/364452/the-nightmare-at-castle-goldgloom-compatible-with-shadowdark-rpg'
+    language: en
+    type: ebook
+    pricing: pwyw

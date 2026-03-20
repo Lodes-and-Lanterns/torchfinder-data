@@ -1,0 +1,30 @@
+id: shrine-of-the-jaguar-princess
+title: Shrine of the Jaguar Princess
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Jungle
+  - Temple
+themes:
+  - Exploration
+  - Mystery
+lmin: 4
+lmax: 4
+desc: 'A 4th-level dungeon set within the ziggurat of an ancient jungle princess. Twenty-six trap-filled chambers of puzzles and ambushes guard a golden idol and stranger secrets beyond. Silver ENnie Award winner (Best Adventure, 2023).'
+pub: Trident Gamebooks
+date: "2023-04-23"
+cover: 'https://img.itch.zone/aW1hZ2UvMTk0NzMyMC8xNDQ5NDYxOC5wbmc=/347x500/67jy%2FN.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/shrine-of-the-jaguar-princess'
+    language: en
+    type: ebook
+    pricing: pwyw

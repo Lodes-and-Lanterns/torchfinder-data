@@ -1,0 +1,24 @@
+id: forest-adventures
+title: 'Forest Adventures'
+authors:
+  - James Mishler
+categories:
+  - Supplement
+  - Sandbox
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+pages: 40
+desc: 'A hex-based forest supplement for the Hawkmoor setting detailing Witchyflow Vale, adding the Oozeling ancestry, the Hermit class, 20 new spells, 15 new creatures, and 25 encounter-populated hexes with dual GM/player maps.'
+pub: Indie
+date: "2025-03-26"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/516668.webp'
+links:
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/516668/forest-adventures-a-shadowdark-supplement'
+    language: en
+    type: ebook
+    pricing: paid

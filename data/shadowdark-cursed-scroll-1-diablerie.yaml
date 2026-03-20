@@ -1,0 +1,41 @@
+id: shadowdark-cursed-scroll-1-diablerie
+title: 'Cursed Scroll Zine, Vol. 1: Diablerie!'
+authors:
+  - Kelsey Dionne
+categories:
+  - Zine
+  - One-Shot
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Dungeon
+  - Forest
+  - Wilderness
+themes:
+  - Horror
+  - Exploration
+character_options:
+  - Witch
+  - Warlock
+  - Knight of St. Ydris
+desc: 'The first Cursed Scroll zine for Shadowdark RPG, built around demon-haunted forests and crumbling castles. Adds three classes, 36 spells, six warlock patron concepts, 20 backgrounds, 14 monsters, and two ready-to-run locations: the dungeon Hideous Halls of Mugdulblub and the open hex crawl The Gloaming.'
+pages: 68
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Cursed_Scroll_Diablerie_Cover_Shadowdark_RPG_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-1-diablerie'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/cursed-scroll-zine-vol-1-diablerie-print'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2022-01-04"

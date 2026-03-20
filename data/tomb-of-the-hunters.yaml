@@ -1,0 +1,34 @@
+id: tomb-of-the-hunters
+title: 'The Tomb of the Hunters'
+authors:
+  - William Murakami-Brundage
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Exploration
+lmin: 1
+lmax: 1
+desc: 'A 5-room dungeon created for the Shadowdark Independent Game Jam. Features evocative monster encounters and layered exploration in a compact tomb.'
+pub: Menagerie Press
+date: "2023-07-03"
+cover: https://img.itch.zone/aW1hZ2UvMjE0NDQyMS8xMjY0NzAyOC5wbmc=/347x500/SIu79%2B.png
+links:
+  - title: itch.io
+    url: https://tmurabrun.itch.io/shadowdark-tomb-of-the-hunters
+    language: en
+    type: ebook
+    pricing: free
+  - title: DriveThruRPG
+    url: https://www.drivethrurpg.com/en/product/444024/Shadowdark-The-Tomb-of-the-Hunters
+    language: en
+    type: ebook
+    pricing: free
+included_in:
+  - pits-of-brund

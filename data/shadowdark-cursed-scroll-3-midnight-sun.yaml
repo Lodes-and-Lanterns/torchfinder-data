@@ -1,0 +1,41 @@
+id: shadowdark-cursed-scroll-3-midnight-sun
+title: 'Cursed Scroll Zine, Vol. 3: Midnight Sun'
+authors:
+  - Kelsey Dionne
+categories:
+  - Zine
+  - Hexcrawl
+  - Funnel
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Arctic
+  - Sea
+  - Mountain
+  - Wilderness
+themes:
+  - Exploration
+  - Survival
+character_options:
+  - Seer
+  - Sea Wolf
+desc: 'The third Cursed Scroll zine for Shadowdark RPG, setting adventures in a harsh Norse-inspired archipelago. Adds two classes, 12 monsters, rules for boats, oaths, and arctic conditions, plus two new locations: the 0-level gauntlet Hoard of the Sea Wolf King and the Isles of Andrik hex crawl.'
+pages: 68
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Cursed_Scroll_MidnightSun_Cover_Shadowdark_RPG_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-3-midnight-sun-pdf-shadowdark-rpg'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/cursed-scroll-zine-vol-3-midnight-sun'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2024"

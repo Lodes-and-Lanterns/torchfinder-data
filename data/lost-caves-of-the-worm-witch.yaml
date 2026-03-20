@@ -1,0 +1,30 @@
+id: lost-caves-of-the-worm-witch
+title: Lost Caves of the Worm-Witch
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Dungeon
+  - Temple
+themes:
+  - Horror
+  - Weird
+lmin: 3
+lmax: 3
+desc: 'A 3rd-level dungeon set in the subterranean lair of an undead bard, featuring bizarre hybrid undead creatures and layered environments spanning a scorpion-god temple, kobold idol cult, and dark elf catacombs.'
+pub: Trident Gamebooks
+date: "2023"
+cover: 'https://img.itch.zone/aW1hZ2UvMTk2MDE0MS8xNzkyNDgzOS5wbmc=/347x500/iLyAhj.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/lost-caves-of-the-worm-witch-shadowdark'
+    language: en
+    type: ebook
+    pricing: pwyw

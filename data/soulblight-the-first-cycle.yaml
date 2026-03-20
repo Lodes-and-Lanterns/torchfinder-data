@@ -1,0 +1,27 @@
+id: soulblight-the-first-cycle
+title: Soulblight - The First Cycle
+authors:
+  - Laurin David Weggen
+categories:
+  - Supplement
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+envs:
+  - Dungeon
+  - Mountain
+lmin: 3
+lmax: 4
+desc: 'A 240-page Soulblight expansion set in the prehistoric Nameless Valleys, long before Lothorian''s kingdoms existed. Covers an early bronze-age world of tribal peoples in a hexcrawl format, including the Amber Hold dungeon, 100+ new monsters, period-appropriate gear, and rules for overland travel and early magical rites.'
+pages: 240
+cover: 'https://img.itch.zone/aW1hZ2UvMzkzOTAxMi8yMzQ4NDk0OS5qcGc=/347x500/O2wp%2B8.jpg'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-the-first-cycle'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2025"

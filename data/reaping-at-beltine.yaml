@@ -1,0 +1,33 @@
+id: reaping-at-beltine
+title: Reaping at Beltine
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+  - Dungeon
+themes:
+  - Horror
+lmin: 3
+lmax: 3
+desc: 'A 3rd-level adventure in the town of Beltine, on the anniversary of a brutal family slaughter. The Kugo family has returned from death as monstrous risen puppets, and the town''s survival depends on the party.'
+pub: Indie
+date: "2023-07"
+cover: 'https://img.itch.zone/aW1hZ2UvMjE0NTIwMS8xMjY1MjQwNC5wbmc=/347x500/7od08A.png'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/reaping-at-beltine'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/443963/Reaping-at-Beltine--compatible-with-Shadowdark-RPG'
+    language: en
+    type: ebook
+    pricing: paid

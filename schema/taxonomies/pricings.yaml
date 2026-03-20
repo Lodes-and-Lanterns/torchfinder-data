@@ -1,0 +1,13 @@
+# Pricing values for individual links.
+#
+# free  - no payment required; $0 with no minimum
+# pwyw  - "pay what you want" starting from $0; you can get it free, but
+#          paying more is welcome (itch.io "Name Your Price" from $0,
+#          DriveThruRPG PWYW, etc.)
+# paid  - payment is required to access the content; covers both fixed
+#         prices and "minimum price + pay more" variants (e.g. itch.io
+#         "$3 or more"); the defining characteristic is that it cannot
+#         be obtained for free
+- free
+- paid
+- pwyw

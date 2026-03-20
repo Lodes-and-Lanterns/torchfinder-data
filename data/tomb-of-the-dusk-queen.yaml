@@ -1,0 +1,28 @@
+id: tomb-of-the-dusk-queen
+title: Tomb of the Dusk Queen
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Exploration
+lmin: 1
+lmax: 1
+pages: 18
+desc: 'A compact 1st-level dungeon with fourteen rooms spread across the tomb of the Dusk Queen. Short enough for a single session and well-suited to introducing players to Shadowdark''s lethal pace.'
+pub: Trident Gamebooks
+date: "2023"
+cover: 'https://img.itch.zone/aW1hZ2UvMTk0Mjg4OC8xNDQ5MzAyNy5wbmc=/347x500/EdWJO%2F.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/tomb-of-the-dusk-queen'
+    language: en
+    type: ebook
+    pricing: pwyw

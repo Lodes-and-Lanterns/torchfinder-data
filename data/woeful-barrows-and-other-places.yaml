@@ -1,0 +1,28 @@
+id: woeful-barrows-and-other-places
+title: Woeful Barrows And Other Places
+authors:
+  - William Murakami-Brundage
+categories:
+  - Adventure
+  - Anthology
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Ruins
+themes:
+  - Exploration
+lmin: 1
+lmax: 5
+desc: 'An adventure anthology featuring nine distinct locations for levels 1–5. Each site presents its own hazards, inhabitants, and rewards for parties exploring the wider region.'
+pub: Menagerie Press
+date: "2024-01-23"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/5353/461662.webp'
+links:
+  - title: DriveThruRPG
+    url: https://www.drivethrurpg.com/en/product/461662/woeful-barrows-and-other-places-for-shadowdark-rpg
+    language: en
+    type: ebook
+    pricing: paid

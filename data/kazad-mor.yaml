@@ -1,0 +1,35 @@
+id: kazad-mor
+title: 'Kazad Mor: The Cursed Dwarfhome'
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Cave
+  - Stronghold
+themes:
+  - Exploration
+lmin: 1
+lmax: 1
+pages: 24
+desc: 'A 1st-level dungeon set in the abandoned halls of Kazad Mor, a cursed dwarven stronghold. Nearly forty rooms of hazards, monsters, and plunder await parties willing to plumb its depths.'
+pub: Indie
+date: "2024-02-21"
+cover: 'https://img.itch.zone/aW1hZ2UvMjM3MzI5My8xNDA1NDMwNS5wbmc=/347x500/95P6u1.png'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/kazad-mor'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/381107/kazad-mor-the-cursed-dwarfhome-compatible-with-shadowdark-rpg'
+    language: en
+    type: ebook
+    pricing: paid

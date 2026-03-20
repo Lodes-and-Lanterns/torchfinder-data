@@ -1,0 +1,34 @@
+id: pits-of-brund
+title: The Pits of Brund
+authors:
+  - William Murakami-Brundage
+categories:
+  - Adventure
+  - Campaign
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Megadungeon
+themes:
+  - Exploration
+lmin: 1
+lmax: 6
+pages: 70
+desc: 'A 70-page megadungeon spanning levels 1–6. A recently rediscovered series of caves descends deep into the barrow-earth, with six layers of encounters, hazards, and plunder waiting below.'
+pub: Menagerie Press
+date: "2023-07-28"
+cover: 'https://img.itch.zone/aW1hZ2UvMjE5MjY4Ni8xMjk1Mjg2MS5wbmc=/347x500/kAXQfQ.png'
+links:
+  - title: itch.io
+    url: https://tmurabrun.itch.io/shadowdark-the-pits-of-brund
+    language: en
+    type: ebook
+    pricing: paid
+  - title: DriveThruRPG
+    url: https://www.drivethrurpg.com/en/product/445311/the-pits-of-brund-for-shadowdark-rpg
+    language: en
+    type: ebook
+    pricing: paid

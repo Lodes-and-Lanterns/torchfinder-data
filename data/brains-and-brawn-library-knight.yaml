@@ -1,0 +1,22 @@
+id: brains-and-brawn-library-knight
+title: 'Brains and Brawn: The Library Knight Class'
+authors:
+  - Jake Savala
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Library Knight
+desc: 'A free class combining martial training with scholarly study. The Library Knight applies academic knowledge of monsters, dungeon hazards, and basic magic alongside solid combat capability.'
+pub: Indie
+date: "2023"
+cover: 'https://img.itch.zone/aW1nLzgyMjkwNTMuanBlZw==/347x500/A99cP4.jpeg'
+links:
+  - title: itch.io
+    url: 'https://brewin-druid.itch.io/library-knight-class'
+    language: en
+    type: ebook
+    pricing: free

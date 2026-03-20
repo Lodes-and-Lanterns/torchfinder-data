@@ -1,0 +1,171 @@
+name: "Update entry"
+description: "Correct or update an existing dataset entry."
+title: "Update entry: "
+labels: ["update-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Leave any field set to `(unchanged)` to keep its current value. Only fill in fields you want to change.
+
+        **How the review process works:**
+        1. A curator reviews your submission and may apply a `needs-info` label with a comment explaining what needs to change.
+        2. If that happens, **edit the body of this issue** (your original post, not the comments) to correct the relevant fields, then leave a brief reply to let the curator know.
+        3. Once everything looks good, the curator approves it and automation handles the rest.
+
+  - type: input
+    id: id
+    attributes:
+      label: "Entry ID"
+      description: "The `id` of the entry you want to update. Press the `Copy ID` button in the Torchfinder app and paste it here.
+      placeholder: "mega-ultra-gigadungeon"
+    validations:
+      required: true
+
+  - type: textarea
+    id: changes_summary
+    attributes:
+      label: "What changed and why?"
+      description: "Briefly describe what you are correcting and the reason for the change."
+      placeholder: "The DriveThruRPG link changed after a publisher migration. Updating URL."
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: "Content title"
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: authors
+    attributes:
+      label: "Authors"
+      description: "One author per line. Leave `(unchanged)` to keep the current value."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: categories
+    attributes:
+      label: "Categories"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: systems
+    attributes:
+      label: "Systems"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: settings
+    attributes:
+      label: "Settings"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: links
+    attributes:
+      label: "Links"
+      description: "Full replacement list. One per line: `Title | https://url | language | type | pricing`. Leave `(unchanged)` to keep current links. See [link types](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price)."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: date
+    attributes:
+      label: "Date"
+      description: "ISO 8601: `YYYY-MM-DD`, `YYYY-MM`, or `YYYY`. Leave `(unchanged)` to keep current value."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: envs
+    attributes:
+      label: "Environments"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: themes
+    attributes:
+      label: "Themes"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: character_options
+    attributes:
+      label: "Character options"
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: lmin
+    attributes:
+      label: "Min level"
+      description: "Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: lmax
+    attributes:
+      label: "Max level"
+      description: "Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: pmin
+    attributes:
+      label: "Min players"
+      description: "Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: pmax
+    attributes:
+      label: "Max players"
+      description: "Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: desc
+    attributes:
+      label: "Description"
+      description: "Write an original summary or use your own product copy. Do not copy-paste text from someone else's product page without documented permission."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: pages
+    attributes:
+      label: "Pages"
+      description: "Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: cover
+    attributes:
+      label: "Cover image URL"
+      description: "Must start with `https://`. Leave `(unchanged)` to keep current value. Leave blank to clear the field."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: pub
+    attributes:
+      label: "Publisher"
+      description: "Leave `(unchanged)` to keep current value."
+      placeholder: "(unchanged)"
+
+  - type: textarea
+    id: included_in
+    attributes:
+      label: "Included in"
+      description: "Full replacement list, one ID per line. Leave `(unchanged)` to keep current value."
+      placeholder: "(unchanged)"
+
+  - type: input
+    id: official
+    attributes:
+      label: "Official content"
+      description: "Enter `true` to mark as official Shadowdark content, `false` to clear the flag, or leave `(unchanged)` to keep the current value."
+      placeholder: "(unchanged)"

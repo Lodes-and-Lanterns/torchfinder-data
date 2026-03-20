@@ -1,0 +1,30 @@
+id: plague-jewels-of-sekhmet
+title: Plague Jewels of Sekhmet
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - Funnel
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Ruins
+  - Temple
+themes:
+  - Horror
+  - Mystery
+lmin: 0
+lmax: 0
+desc: 'A 0-level funnel set in the ruins of a cenotaph dedicated to the war-goddess Sekhmet. Characters awaken deep in the tomb with no memories and a spreading plague, and must fight through twelve lethal chambers to reach the surface. Includes optional tournament play rules.'
+pub: Trident Gamebooks
+date: "2023"
+cover: 'https://img.itch.zone/aW1hZ2UvMjI2MTE4NC8xNDQ5MzI0OC5wbmc=/347x500/Ed67c2.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/sekhmet'
+    language: en
+    type: ebook
+    pricing: paid

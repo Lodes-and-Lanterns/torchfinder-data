@@ -1,0 +1,30 @@
+id: kaldera-of-the-sickle-dancer
+title: Kaldera of the Sickle-Dancer
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Mountain
+themes:
+  - Action
+  - Horror
+lmin: 3
+lmax: 3
+pages: 29
+desc: 'A 3rd-level dungeon wound through the volcanic caldera lair of a warrior-dancer transformed into a marilith through dark sorcery. Twenty-one chambers of deadly encounters fill the winding passages below.'
+pub: Trident Gamebooks
+date: "2023-08-15"
+cover: 'https://img.itch.zone/aW1hZ2UvMjIwMTc0NS8xNDQ5MzM3Ny5wbmc=/347x500/GmomOe.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/kaldera-of-the-sickle-dancer'
+    language: en
+    type: ebook
+    pricing: paid

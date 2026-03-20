@@ -1,0 +1,22 @@
+id: familiar-brews-practitioner
+title: 'Familiar Brews: The Practitioner Class'
+authors:
+  - Jake Savala
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Practitioner
+desc: 'A free Practitioner class. The Practitioner bonds with a powerful familiar and brews magical concoctions to aid allies and hinder foes.'
+pub: Indie
+date: "2023"
+cover: 'https://img.itch.zone/aW1nLzgyOTA1ODEuanBlZw==/347x500/B61%2BOF.jpeg'
+links:
+  - title: itch.io
+    url: 'https://brewin-druid.itch.io/familiar-brews'
+    language: en
+    type: ebook
+    pricing: free

@@ -1,0 +1,125 @@
+name: Build and Dispatch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'schema/torchfinder-entry.schema.json'
+      - 'schema/taxonomies/**'
+      - 'schema/removed.yaml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Compute CalVer tag
+        id: version
+        run: |
+          DATE=$(date -u +%Y.%m.%d)
+
+          EXISTING=$(git tag -l "${DATE}" "${DATE}.*" | sort -t. -k4 -n)
+
+          if [ -z "$EXISTING" ]; then
+            TAG="${DATE}"
+          else
+            LAST=$(echo "$EXISTING" | tail -1)
+            if [ "$LAST" = "${DATE}" ]; then
+              TAG="${DATE}.1"
+            else
+              SUFFIX="${LAST#${DATE}.}"
+              TAG="${DATE}.$((SUFFIX + 1))"
+            fi
+          fi
+
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "Computed tag: $TAG"
+
+      - name: Build
+        run: deno run --allow-read --allow-write build.ts
+
+      - name: Detect schema changes and build release notes
+        id: release-notes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.version.outputs.tag }}"
+          PREV_TAG=$(gh release list --limit 1 --json tagName -q '.[0].tagName' 2>/dev/null || echo "")
+
+          # If the tag no longer exists in git (e.g. after a history rewrite), treat as no previous release
+          if [ -n "$PREV_TAG" ] && ! git tag -l "$PREV_TAG" | grep -q .; then
+            PREV_TAG=""
+          fi
+
+          # Run schema diff against previous release (if one exists)
+          if [ -n "$PREV_TAG" ]; then
+            deno run --allow-read --allow-run scripts/schema-diff.ts "$PREV_TAG" > schema-diff.json 2>/dev/null \
+              || echo '{"breaking":[],"nonBreaking":[],"hasChanges":false,"hasBreaking":false}' > schema-diff.json
+          else
+            echo '{"breaking":[],"nonBreaking":[],"hasChanges":false,"hasBreaking":false}' > schema-diff.json
+          fi
+
+          # Generate release notes via GitHub API
+          if [ -n "$PREV_TAG" ]; then
+            gh api --method POST "/repos/$GITHUB_REPOSITORY/releases/generate-notes" \
+              -f tag_name="$TAG" \
+              -f previous_tag_name="$PREV_TAG" \
+              --jq '.body' > generated-notes.txt
+          else
+            gh api --method POST "/repos/$GITHUB_REPOSITORY/releases/generate-notes" \
+              -f tag_name="$TAG" \
+              --jq '.body' > generated-notes.txt
+          fi
+
+          # Prepend breaking-change warning when applicable
+          if [ "$(jq -r '.hasBreaking' schema-diff.json)" = "true" ]; then
+            {
+              echo "## ⚠️ Breaking schema changes"
+              echo ""
+              echo "The following changes may affect consumers of this dataset:"
+              echo ""
+              jq -r '.breaking[] | "- " + .' schema-diff.json
+              echo ""
+              echo "---"
+              echo ""
+              cat generated-notes.txt
+            } > release-notes.txt
+          else
+            cp generated-notes.txt release-notes.txt
+          fi
+
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ steps.version.outputs.tag }}" \
+            dist/torchfinder-dataset.json \
+            dist/torchfinder-dataset.jsonl \
+            schema/torchfinder-entry.schema.json \
+            --title "${{ steps.version.outputs.tag }}" \
+            --notes-file release-notes.txt
+
+      - name: Dispatch to torchfinder
+        env:
+          GH_TOKEN: ${{ secrets.TORCHFINDER_DISPATCH_TOKEN }}
+        run: |
+          TAG="${{ steps.version.outputs.tag }}"
+          gh api --method POST \
+            /repos/Lodes-and-Lanterns/torchfinder/dispatches \
+            -f event_type=data-updated \
+            -F client_payload[tag]="$TAG"

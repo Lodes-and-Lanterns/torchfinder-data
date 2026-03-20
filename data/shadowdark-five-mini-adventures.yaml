@@ -1,0 +1,42 @@
+id: shadowdark-five-mini-adventures
+title: Five Mini-Adventures
+authors:
+  - Kelsey Dionne
+categories:
+  - Anthology
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Dungeon
+  - Cave
+  - Desert
+  - Sea
+  - Urban
+  - Forest
+  - Temple
+themes:
+  - Exploration
+  - Horror
+lmin: 3
+lmax: 6
+desc: 'Five standalone two-page adventures for 3rd–6th level characters, each set in a distinct location: an ancient horror-filled monolith, a sinking sea-palace prison, a desert cult temple, a pirate cavern, and a leprechaun''s fey redoubt.'
+pages: 10
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Mini-Adventures1-5_Print_PDF_2000x.png'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/five-mini-adventure-pdfs-shadowdark'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/five-mini-adventures'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2023"

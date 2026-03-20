@@ -1,0 +1,21 @@
+id: creature-classes
+title: 'Creature Classes'
+authors:
+  - James Mishler
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+pages: 12
+desc: 'Eight playable creature ancestry classes, usable as both player characters and monstrous opponents: Catkin, Equizards, Mind Mice, Petty Dragons, Shimmercats, Spirit Foxes, Sternulfs, and Wink Dogs. Includes a creature-specific background table.'
+pub: Indie
+date: "2023"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/439312.webp'
+links:
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/439312/creature-classes-a-shadowdark-supplement'
+    language: en
+    type: ebook
+    pricing: paid

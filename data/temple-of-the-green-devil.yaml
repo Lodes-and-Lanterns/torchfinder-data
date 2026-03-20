@@ -1,0 +1,33 @@
+id: temple-of-the-green-devil
+title: 'Temple of the Green Devil'
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Jungle
+  - Temple
+themes:
+  - Action
+pages: 56
+desc: 'A competitive tournament module in which two groups simultaneously plunder a jungle temple during a solar eclipse. Each group can hinder the other with summoned monsters, traps, and curses. Available in a free art-free edition and a paid deluxe edition.'
+pub: Trident Gamebooks
+date: "2024-08-05"
+cover: 'https://img.itch.zone/aW1hZ2UvMzc3NjQxNC8yMjQ3MjkwOS5qcGc=/347x500/e%2ByPoz.jpg'
+links:
+  - title: itch.io (Art-Free Edition)
+    url: 'https://sersavictory.itch.io/temple-of-the-green-devil'
+    language: en
+    type: ebook
+    pricing: free
+  - title: itch.io (Deluxe Edition)
+    url: 'https://sersavictory.itch.io/temple-of-the-green-devil-deluxe-edition-shadowdark'
+    language: en
+    type: ebook
+    pricing: paid

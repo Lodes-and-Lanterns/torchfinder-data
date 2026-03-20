@@ -1,0 +1,27 @@
+id: the-beast-class
+title: 'The Beast: Werewolf Class'
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Beast
+desc: 'A half-feral class built around primal instincts and escalating physical power. At higher levels, the Beast unlocks full werewolf transformation, bringing savage ferocity to combat.'
+pub: Indie
+date: "2023"
+cover: 'https://img.itch.zone/aW1nLzE0MDUzODkyLnBuZw==/347x500/Nnzp9u.png'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/the-beast'
+    language: en
+    type: ebook
+    pricing: free
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/431850/The-Beast--Werewolf-class-for-Shadowdark-RPG'
+    language: en
+    type: ebook
+    pricing: paid

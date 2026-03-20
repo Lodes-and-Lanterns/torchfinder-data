@@ -1,0 +1,22 @@
+id: shapeshifter-class
+title: 'Shapeshifter Class'
+authors:
+  - James Mishler
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Shapeshifter
+desc: 'A class focused on mastering animal forms through study and attunement. The Shapeshifter bonds with animals over time, gaining the ability to communicate with them and transform into their physical forms.'
+pub: Indie
+date: "2023"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/438452.webp'
+links:
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/438452/shapeshifter-class-a-shadowdark-supplement'
+    language: en
+    type: ebook
+    pricing: paid

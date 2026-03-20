@@ -1,0 +1,43 @@
+id: shadowdark-cursed-scroll-2-red-sands
+title: 'Cursed Scroll Zine, Vol. 2: Red Sands'
+authors:
+  - Kelsey Dionne
+categories:
+  - Zine
+  - Hexcrawl
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Desert
+  - Dungeon
+  - Wilderness
+themes:
+  - Action
+  - Exploration
+character_options:
+  - Desert Rider
+  - Pit Fighter
+  - Ras-Godai
+lmin: 4
+lmax: 6
+desc: 'The second Cursed Scroll zine for Shadowdark RPG, adding a scorching desert region to the game. Introduces three classes, 14 monsters, rules for mounted combat, pit fighting, poisons, and lasting wounds, plus two new locations: the 4th–6th level dungeon Fortress of the Burning Brothers and The Djurum desert hex crawl.'
+pages: 68
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Cursed_Scroll_RedSands_Cover_Shadowdark_RPG_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-2-red-sands-pdf-shadowdark-rpg'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/cursed-scroll-zine-vol-2-red-sands'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2024"

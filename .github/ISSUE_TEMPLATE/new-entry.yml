@@ -1,0 +1,179 @@
+name: "New entry"
+description: "Submit a new content entry for the Torchfinder dataset."
+title: "New entry: "
+labels: ["new-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in every required field, and whatever else you can. A curator will review your submission.
+
+        **How the review process works:**
+        1. A curator reviews your submission and may apply a `needs-info` label with a comment explaining what needs to change.
+        2. If that happens, **edit the body of this issue** (your original post, not the comments) to correct the relevant fields, then leave a brief reply to let the curator know.
+        3. Once everything looks good, the curator approves it and automation handles the rest.
+
+  - type: input
+    id: title
+    attributes:
+      label: "Content title"
+      placeholder: "Mega Ultra Gigadungeon"
+    validations:
+      required: true
+
+  - type: textarea
+    id: authors
+    attributes:
+      label: "Authors"
+      description: "One author per line. At least one required."
+      placeholder: |
+        Jane Smith
+        John Doe
+    validations:
+      required: true
+
+  - type: textarea
+    id: categories
+    attributes:
+      label: "Categories"
+      description: "One value per line. At least one required. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
+      placeholder: |
+        Adventure
+        One-Shot
+    validations:
+      required: true
+
+  - type: textarea
+    id: systems
+    attributes:
+      label: "Systems"
+      description: "One per line. At least one required. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
+      placeholder: "Shadowdark"
+    validations:
+      required: true
+
+  - type: textarea
+    id: settings
+    attributes:
+      label: "Settings"
+      description: "One per line. At least one required. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
+      placeholder: "Setting-Agnostic"
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: "Links (optional)"
+      description: "One per line: `Title | https://url | language | type | pricing`. Language is an IETF tag (e.g. `en`, `es`). See [link types](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price). Leave blank if no link is available."
+      placeholder: |
+        DriveThruRPG | https://www.drivethrurpg.com/product/000000 | en | ebook | paid
+        Read online | https://example.com/mega-ultra-gigadungeon | en | web | free
+
+  - type: input
+    id: date
+    attributes:
+      label: "Date"
+      description: "ISO 8601: `YYYY-MM-DD`, `YYYY-MM`, or `YYYY`. Future dates are valid for upcoming content."
+      placeholder: "2025-06-01"
+    validations:
+      required: true
+
+  - type: textarea
+    id: envs
+    attributes:
+      label: "Environments (optional)"
+      description: "Physical locations in the adventure. One per line. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
+      placeholder: |
+        Dungeon
+        Ruins
+
+  - type: textarea
+    id: themes
+    attributes:
+      label: "Themes (optional)"
+      description: "Tone and narrative qualities. One per line. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
+      placeholder: |
+        Horror
+        Mystery
+
+  - type: textarea
+    id: character_options
+    attributes:
+      label: "Character options (optional)"
+      description: "Classes, archetypes, or similar character-building options this content is designed for or particularly suited to. One per line. Leave blank if not applicable."
+      placeholder: |
+        Fighter
+        Wizard
+
+  - type: input
+    id: lmin
+    attributes:
+      label: "Min level (optional)"
+      description: "Minimum character level. `0` is valid (funnels). Leave blank to omit."
+      placeholder: "1"
+
+  - type: input
+    id: lmax
+    attributes:
+      label: "Max level (optional)"
+      description: "Maximum character level. Leave blank to omit."
+      placeholder: "3"
+
+  - type: input
+    id: pmin
+    attributes:
+      label: "Min players (optional)"
+      description: "Minimum recommended players. Leave blank to omit."
+      placeholder: "3"
+
+  - type: input
+    id: pmax
+    attributes:
+      label: "Max players (optional)"
+      description: "Maximum recommended players. Leave blank to omit."
+      placeholder: "5"
+
+  - type: textarea
+    id: desc
+    attributes:
+      label: "Description (optional)"
+      description: "Write an original summary or use your own product copy. Do not copy-paste text from someone else's product page without documented permission."
+      placeholder: "A partially-submerged lighthouse holds terrible secrets at a mysterious island."
+
+  - type: input
+    id: pages
+    attributes:
+      label: "Pages (optional)"
+      description: "Page count. Leave blank to omit."
+      placeholder: "12"
+
+  - type: input
+    id: cover
+    attributes:
+      label: "Cover image URL (optional)"
+      description: "Must start with `https://`. A stable CDN link is preferred."
+      placeholder: "https://example.com/cover.jpg"
+
+  - type: input
+    id: pub
+    attributes:
+      label: "Publisher (optional)"
+      description: "Publisher or studio name."
+      placeholder: "Example Publishing"
+
+  - type: textarea
+    id: included_in
+    attributes:
+      label: "Included in (optional)"
+      description: "IDs of parent products that contain this entry (e.g. a zine that bundles this adventure). One ID per line. Referenced IDs must already exist in the dataset. Can be copied from the Torchfinder app."
+      placeholder: |
+        some-zine-id
+
+  - type: checkboxes
+    id: official
+    attributes:
+      label: "Official content"
+      description: "Check this only for content published directly by The Arcane Library as official Shadowdark material."
+      options:
+        - label: "This is official Shadowdark content"

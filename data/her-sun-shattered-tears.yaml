@@ -1,0 +1,28 @@
+id: her-sun-shattered-tears
+title: Her Sun-Shattered Tears
+authors:
+  - Sersa Victory
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Exploration
+  - Horror
+lmin: 1
+lmax: 1
+desc: 'A free 1st-level dungeon delve originally created for the Shadowdark Independent Game Jam. Ten chambers of deadly traps and monsters, driven by an evocative sun-goddess theme.'
+pub: Trident Gamebooks
+date: "2023-07"
+cover: 'https://img.itch.zone/aW1hZ2UvMjEzNTM5Ni8xNDQ5NDQwMy5wbmc=/347x500/5HHPqS.png'
+links:
+  - title: itch.io
+    url: 'https://sersavictory.itch.io/sun-shattered-tears'
+    language: en
+    type: ebook
+    pricing: pwyw

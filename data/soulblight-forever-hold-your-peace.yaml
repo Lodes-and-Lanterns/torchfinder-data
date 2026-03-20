@@ -1,0 +1,28 @@
+id: soulblight-forever-hold-your-peace
+title: Soulblight - Forever Hold Your Peace
+authors:
+  - Laurin David Weggen
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+envs:
+  - Desert
+  - Temple
+themes:
+  - Horror
+  - Religion
+lmin: 3
+lmax: 5
+desc: 'A 3rd-to-5th level adventure set in the temple of Sandreaver, goddess of the Scorpionfolk. The party infiltrates the sacred hall during a major divine ceremony, contending with religious traps, ritual hazards, and the attendants of two competing deities.'
+cover: 'https://img.itch.zone/aW1nLzIzNzQ2NDI2LnBuZw==/315x250%23cb/L63VJ2.png'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-forever-hold-your-peace'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2025"

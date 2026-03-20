@@ -1,0 +1,29 @@
+id: pleasures-of-the-dream-palace
+title: Pleasures of the Dream Palace
+authors:
+  - Taylor Seely-Wright
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Planar
+themes:
+  - Horror
+  - Weird
+lmin: 3
+lmax: 5
+desc: "A dungeon crawl for 3rd- to 5th-level characters. Sinister demonic entanglements tied to a respectable village family lead to the Dream Palace: a surreal, trap-laden otherworldly space with a poor survival rate for visitors."
+pub: Indie
+date: "2024-08"
+cover: 'https://img.itch.zone/aW1nLzE3NTEwNTUzLnBuZw==/original/FFHMF0.png'
+links:
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/pleasures-of-the-dream-palace'
+    language: en
+    type: ebook
+    pricing: pwyw

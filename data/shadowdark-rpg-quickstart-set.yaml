@@ -1,0 +1,38 @@
+id: shadowdark-rpg-quickstart-set
+title: Shadowdark RPG Quickstart Set
+authors:
+  - Kelsey Dionne
+categories:
+  - Quickstart
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Dungeon
+lmin: 1
+lmax: 3
+desc: 'A free two-booklet introduction to Shadowdark RPG: a 68-page Player''s Guide with the core rules and eight premade 1st-level characters, and a 68-page GM''s Guide with encounter tools and a ready-to-run dungeon adventure. Suitable for characters of 1st through 3rd level.'
+pages: 136
+cover: 'https://www.thearcanelibrary.com/cdn/shop/products/Quickstart_Set_-_Print_PDF_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-quickstart-set-pdf'
+    language: en
+    type: ebook
+    pricing: free
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/shadowdark-rpg-quickstart-set'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/413713/shadowdark-rpg-quickstart-set'
+    language: en
+    type: ebook
+    pricing: free
+pub: The Arcane Library
+official: true
+date: "2022-12-19"

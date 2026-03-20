@@ -1,0 +1,22 @@
+id: two-strong-arms-barbarian
+title: 'Two Strong Arms: The Barbarian Class'
+authors:
+  - Jake Savala
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Barbarian
+desc: 'A free Barbarian class. A mighty martial class built around raw physical power and ferocity.'
+pub: Indie
+date: "2023"
+cover: 'https://img.itch.zone/aW1nLzgwOTg5MzMucG5n/347x500/T7%2Fr5D.png'
+links:
+  - title: itch.io
+    url: 'https://brewin-druid.itch.io/two-strong-arms'
+    language: en
+    type: ebook
+    pricing: free

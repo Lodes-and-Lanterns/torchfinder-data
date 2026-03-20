@@ -1,0 +1,33 @@
+id: shadowdark-rpg
+title: Shadowdark RPG
+authors:
+  - Kelsey Dionne
+categories:
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+character_options:
+  - Fighter
+  - Priest
+  - Thief
+  - Wizard
+desc: 'The complete Shadowdark RPG core rules: a dark fantasy dungeon crawling game with a lean d20 system and real-time torch tracking that keeps sessions fast and tense. The 326-page book covers four base classes, the Western Reaches setting, a bestiary, and introductory adventures. Winner of the 2024 Three Castles Award and four gold ENNIEs including Product of the Year.'
+pages: 326
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Shadowdark_RPG_Hardcover_Book_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-pdf'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/shadowdark-rpg'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2023-07"

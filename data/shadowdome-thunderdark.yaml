@@ -1,0 +1,24 @@
+id: shadowdome-thunderdark
+title: 'Shadowdome Thunderdark Zine: Community Sourced Adventure for Gary Con XVI'
+authors:
+  - Kelsey Dionne
+categories:
+  - Zine
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Megadungeon
+desc: 'A community-sourced megadungeon generator created for Gary Con XVI, featuring 11 new monsters, 50 dungeon rooms, and trap and hazard roll tables with over 1,700 possible results.'
+pages: 28
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/ShadowdomeThunderdarkCover_2000x.png'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/shadowdome-thunderdark-zine'
+    language: en
+    type: ebook
+    pricing: free
+pub: The Arcane Library
+date: "2024-03"
