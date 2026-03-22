@@ -11,8 +11,8 @@
  * only and exits cleanly; this is the mode used by PR validation CI.
  */
 
-import { parse as parseYaml } from "jsr:@std/yaml";
-import Ajv from "npm:ajv";
+import { parse as parseYaml } from "@std/yaml";
+import Ajv from "ajv";
 import { checkSmartChars, type Entry, type EnrichedEntry, enrichEntries } from "./scripts/lib.ts";
 
 // Load schema and taxonomies

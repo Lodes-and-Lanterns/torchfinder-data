@@ -19,7 +19,7 @@ jobs:
           deno-version: v2.x
 
       - name: Test automation scripts
-        run: deno test scripts/lib.test.ts
+        run: deno task test
 
       - name: Validate entries
-        run: deno run --allow-read build.ts
+        run: deno task validate

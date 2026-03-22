@@ -29,7 +29,7 @@
  *   }
  */
 
-import { parse as parseYaml } from "jsr:@std/yaml";
+import { parse as parseYaml } from "@std/yaml";
 import { compareSchemas, compareTaxonomyValues, type SchemaShape } from "./lib.ts";
 
 const prevTag = Deno.args[0];

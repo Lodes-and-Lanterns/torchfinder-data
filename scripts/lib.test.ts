@@ -11,7 +11,7 @@ import {
   assertEquals,
   assertMatch,
   assertNotEquals,
-} from "jsr:@std/assert";
+} from "@std/assert";
 import {
   checkSmartChars,
   compareSchemas,

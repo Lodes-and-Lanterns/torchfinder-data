@@ -17,7 +17,7 @@
  *   deno run --allow-read --allow-write --allow-run --allow-env scripts/issue-to-pr.ts
  */
 
-import { parse as parseYaml, stringify as stringifyYaml } from "jsr:@std/yaml";
+import { parse as parseYaml, stringify as stringifyYaml } from "@std/yaml";
 import {
   type EntryFields,
   generateEntryYaml,

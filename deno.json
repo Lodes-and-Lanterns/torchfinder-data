@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "test": "deno test scripts/lib.test.ts",
+    "validate": "deno run --allow-read build.ts",
+    "build": "deno run --allow-read --allow-write build.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.19",
+    "@std/yaml": "jsr:@std/yaml@^1.0.12",
+    "ajv": "npm:ajv@^8.18.0"
+  }
+}

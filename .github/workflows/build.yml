@@ -51,7 +51,7 @@ jobs:
           echo "Computed tag: $TAG"
 
       - name: Build
-        run: deno run --allow-read --allow-write build.ts
+        run: deno task build
 
       - name: Detect schema changes and build release notes
         id: release-notes
