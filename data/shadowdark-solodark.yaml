@@ -15,15 +15,15 @@ pages: 12
 cover: 'https://www.thearcanelibrary.com/cdn/shop/files/SoloDark_Cover_Shadowdark_RPG_2000x.jpg'
 links:
   - title: The Arcane Library
-    url: 'https://www.thearcanelibrary.com/products/solodark-solo-rules-for-shadowdark-rpg-pdf'
-    language: en
-    type: ebook
-    pricing: free
-  - title: The Arcane Library
     url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/solodark-solo-rules-for-shadowdark-rpg-print-pdf'
     language: en
     type: ebook-and-print
     pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/solodark-solo-rules-for-shadowdark-rpg-pdf'
+    language: en
+    type: ebook
+    pricing: free
 pub: The Arcane Library
 official: true
 date: "2023-06"

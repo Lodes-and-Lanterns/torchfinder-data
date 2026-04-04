@@ -19,14 +19,14 @@ pages: 326
 cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Shadowdark_RPG_Hardcover_Book_2000x.jpg'
 links:
   - title: The Arcane Library
-    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-pdf'
-    language: en
-    type: ebook
-    pricing: paid
-  - title: The Arcane Library
     url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/shadowdark-rpg'
     language: en
     type: ebook-and-print
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-pdf'
+    language: en
+    type: ebook
     pricing: paid
 pub: The Arcane Library
 official: true

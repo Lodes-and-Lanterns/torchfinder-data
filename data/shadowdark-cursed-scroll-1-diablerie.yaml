@@ -27,14 +27,14 @@ pages: 68
 cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Cursed_Scroll_Diablerie_Cover_Shadowdark_RPG_2000x.jpg'
 links:
   - title: The Arcane Library
-    url: 'https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-1-diablerie'
-    language: en
-    type: ebook
-    pricing: paid
-  - title: The Arcane Library
     url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/cursed-scroll-zine-vol-1-diablerie-print'
     language: en
     type: ebook-and-print
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/cursed-scroll-zine-vol-1-diablerie'
+    language: en
+    type: ebook
     pricing: paid
 pub: The Arcane Library
 official: true

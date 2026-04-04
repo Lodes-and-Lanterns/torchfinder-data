@@ -21,13 +21,13 @@ pub: Trident Gamebooks
 date: "2024-08-05"
 cover: 'https://img.itch.zone/aW1hZ2UvMzc3NjQxNC8yMjQ3MjkwOS5qcGc=/347x500/e%2ByPoz.jpg'
 links:
-  - title: itch.io (Art-Free Edition)
-    url: 'https://sersavictory.itch.io/temple-of-the-green-devil'
-    language: en
-    type: ebook
-    pricing: free
   - title: itch.io (Deluxe Edition)
     url: 'https://sersavictory.itch.io/temple-of-the-green-devil-deluxe-edition-shadowdark'
     language: en
     type: ebook
     pricing: paid
+  - title: itch.io (Art-Free Edition)
+    url: 'https://sersavictory.itch.io/temple-of-the-green-devil'
+    language: en
+    type: ebook
+    pricing: free

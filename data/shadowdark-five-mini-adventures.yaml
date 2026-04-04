@@ -28,14 +28,14 @@ pages: 10
 cover: 'https://www.thearcanelibrary.com/cdn/shop/files/Mini-Adventures1-5_Print_PDF_2000x.png'
 links:
   - title: The Arcane Library
-    url: 'https://www.thearcanelibrary.com/products/five-mini-adventure-pdfs-shadowdark'
-    language: en
-    type: ebook
-    pricing: paid
-  - title: The Arcane Library
     url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/five-mini-adventures'
     language: en
     type: ebook-and-print
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/five-mini-adventure-pdfs-shadowdark'
+    language: en
+    type: ebook
     pricing: paid
 pub: The Arcane Library
 official: true

@@ -19,15 +19,15 @@ pages: 136
 cover: 'https://www.thearcanelibrary.com/cdn/shop/products/Quickstart_Set_-_Print_PDF_2000x.jpg'
 links:
   - title: The Arcane Library
-    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-quickstart-set-pdf'
-    language: en
-    type: ebook
-    pricing: free
-  - title: The Arcane Library
     url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/shadowdark-rpg-quickstart-set'
     language: en
     type: ebook-and-print
     pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-quickstart-set-pdf'
+    language: en
+    type: ebook
+    pricing: free
   - title: DriveThruRPG
     url: 'https://www.drivethrurpg.com/en/product/413713/shadowdark-rpg-quickstart-set'
     language: en

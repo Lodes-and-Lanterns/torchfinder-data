@@ -16,13 +16,13 @@ pub: Indie
 date: "2023-03-02"
 cover: 'https://img.itch.zone/aW1nLzE0MDUzOTczLnBuZw==/347x500/omDkxw.png'
 links:
-  - title: itch.io
-    url: 'https://signals-from-beyond.itch.io/the-king'
-    language: en
-    type: ebook
-    pricing: free
   - title: DriveThruRPG
     url: 'https://www.drivethrurpg.com/en/product/428889/The-King--Shadowdark-RPG-Class'
     language: en
     type: ebook
     pricing: paid
+  - title: itch.io
+    url: 'https://signals-from-beyond.itch.io/the-king'
+    language: en
+    type: ebook
+    pricing: free
