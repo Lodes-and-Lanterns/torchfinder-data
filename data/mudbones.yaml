@@ -1,0 +1,31 @@
+id: mudbones
+title: Mudbones
+authors:
+  - Scott Craig
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Temple
+themes:
+  - Horror
+  - Exploration
+lmin: 1
+lmax: 4
+pages: 48
+desc: >
+  Danger awaits in the multi-level, mud-buried temple of a dead god stirring to life anew. Filled with traps, secret doors, water features, and new monsters incuding the "mudbones."
+pub: Cutter Mountain Simulations
+date: "2025-07"
+cover: https://i.kickstarter.com/assets/052/657/098/f3fe5d10065c120963210ee06e27aa46_original.jpg?fit=scale-down&origin=ugc&q=92&v=1771475629&width=680&sig=66U7FleDLaP6ks5XDYKFPZHDZI5fLjJJb6yOrWOJIO8%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/397540171/mudbones-a-forbidding-dungeon-delve-for-the-shadowdark-rpg
+    language: en
+    type: ebook-and-print
+    pricing: paid

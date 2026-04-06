@@ -1,0 +1,24 @@
+id: rock-and-roar
+title: "Rock & Roar!"
+authors:
+  - Joe Wetzel
+  - Andrew Shields
+categories:
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+themes:
+  - Weird
+desc: >
+  A neon and thunder bestiary of 50+ monsters inspired from classic rock, pop, and metal song titles and band names. Each monster gets its own illustrated page with backstory, stats, and option charts. Appendices include thematic maps, magic items, mini-adventures, and other stuff.
+pub: Inkwell Ideas
+date: "2026-04"
+cover: https://i.kickstarter.com/assets/052/400/926/c7af787a26e6d5851ae2b4b4e9d63865_original.png?fit=scale-down&origin=ugc&q=100&v=1769727567&width=680&sig=VEMOSzd5%2FnqqU9MtaBkPufExCstPkiD3Vjswsz8FIQQ%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/inkwellideas/rock-and-roar
+    language: en
+    type: ebook-and-print
+    pricing: paid

@@ -1,0 +1,34 @@
+id: under-the-shadow-of-helfast-spire
+title: Under the Shadow of Helfast Spire
+authors:
+  - Robert Mason (Bob World Builder)
+categories:
+  - Hexcrawl
+  - Supplement
+  - Zine
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+themes:
+  - Weird
+envs:
+  - Cave
+  - Forest
+character_options:
+  - Berserker
+  - Necromancer
+  - Mountaineer
+  - Tunneler
+pages: 64
+desc: >
+  A 64-page zine featuring the Coal Catacombs, a dungeon setting inspired by historical coal mining conditions. Introduces 4 new classes, 16 new monsters, 30 new magic items, hexcrawl wilderness sites, and rules for hazardous gases and uniquely adapted creatures.
+pub: Indie
+date: "2026-06"
+cover: https://i.kickstarter.com/assets/052/524/157/7d742b447a3b9f06559a75e9e34c2fdd_original.png?fit=scale-down&origin=ugc&q=100&v=1770586314&width=680&sig=myfNklzHIRY4AwhmV7W3DkX%2BTxGLW5q6dz9FU80QFhU%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/bobworldbuilder/helfast-spire-shadowdark
+    language: en
+    type: ebook-and-print
+    pricing: paid

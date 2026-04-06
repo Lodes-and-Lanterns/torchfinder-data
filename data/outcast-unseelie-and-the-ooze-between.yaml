@@ -1,0 +1,28 @@
+id: outcast-unseelie-and-the-ooze-between
+title: Outcast Unseelie and the Ooze Between
+authors:
+  - Jesse Winter
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Weird
+lmin: 1
+lmax: 3
+pages: 32
+desc: >
+  A highly-interconnected and two-level puzzle dungeon defined by mysterious slime and fey attitude. Includes fairy trinkets, ooze-themed monsters, and several enigmatic NPCs.
+pub: Slime Mind Studio
+date: "2026"
+cover: https://i.kickstarter.com/assets/052/443/786/d62eb2ce7de8671054b4b77f9753ddf3_original.png?fit=scale-down&origin=ugc&q=100&v=1770053134&width=680&sig=IpLDedkjk5Ix7GE54NmqVOnIgBq8kt8EtWZq0GW3Ieg%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/a-haunting-in-glass/outcast-unseelie-and-the-ooze-between
+    language: en
+    type: ebook-and-print
+    pricing: paid

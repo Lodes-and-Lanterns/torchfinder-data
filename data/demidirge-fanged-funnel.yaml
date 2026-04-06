@@ -1,0 +1,31 @@
+id: demidirge-fanged-funnel
+title: "Demidirge: Fanged Funnel"
+authors:
+  - Shane Walshe
+categories:
+  - Adventure
+  - Funnel
+  - Zine
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+themes:
+  - Horror
+  - Weird
+lmin: 0
+lmax: 1
+pages: 32
+desc: >
+  You are a tunneler who must conspire to escape the watchful and subterranean acid sea blistering underneath a liminal cathedral. Avoiding the awareness of a Queen and the wraith-priests is advised, while exploiting "contraband fossils" and decaying tools.
+pub: Indie
+date: "2026-04"
+cover: https://i.kickstarter.com/assets/052/420/076/3a7ff215061b4f205021a146dd79ade2_original.jpg?fit=scale-down&origin=ugc&q=92&v=1769875621&width=680&sig=2tDewT6gazcP9Qv%2Fm%2F83gZroLukBeM%2Fj7dz7lBHfwWQ%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/lazylitch/demidirge
+    language: en
+    type: ebook-and-print
+    pricing: paid

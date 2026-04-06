@@ -1,0 +1,29 @@
+id: the-spear-of-horrendous-iron
+title: The Spear of Horrendous Iron
+authors:
+  - Samuel Taylor
+categories:
+  - Adventure
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Wilderness
+themes:
+  - Intrigue
+  - Religion
+pages: 48
+desc: >
+  A dense regional adventure involving fervently-religious anarchists. Smorgsabords a faction-laden town of shifting alliances with a regional map and dungeon tied together by deliberately unbalanced encounters. Features 14 new monsters and six new magical items.
+pub: Indie
+date: "2026-05"
+cover: https://i.kickstarter.com/assets/052/347/005/501fb89d4045cb4a782a5b304147aca9_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1769390038&width=1552&sig=oe2lwHIYVhsLna1t8vsBhgBIhIVGnczNoltlTaiKzJA%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/3x5arcana/the-spear-of-horrendous-iron
+    language: en
+    type: ebook-and-print
+    pricing: paid

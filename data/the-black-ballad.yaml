@@ -1,0 +1,31 @@
+id: the-black-ballad
+title: The Black Ballad
+authors:
+  - Erik Frankhouse
+  - Rick Heinz
+categories:
+  - Campaign
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Godless
+  - Reaper
+  - Priest
+  - Nyxian Gargoyle
+  - Soul Stitched
+themes:
+  - Horror
+desc: >
+  An afterlife campaign set in the realm of the Sunless Crossing, made for characters who have fallen in previous adventures. This edition redesigned for Shadowdark expands the system into epic-level play, and includes 17 new monsters.
+pub: Storytellers Forge
+date: "2026-09"
+cover: https://i.kickstarter.com/assets/052/986/376/2a3077fa3f7c83c2a94ec53ceb1899bb_original.png?fit=scale-down&origin=ugc&q=80&v=1773739639&width=600&sig=dDe3QEtsQTR8ONGv%2B5j1MWwgsKghJDQGulDWW5eA9sY%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/stforge/the-black-ballad-for-shadowdark-rpg
+    language: en
+    type: ebook-and-print
+    pricing: paid

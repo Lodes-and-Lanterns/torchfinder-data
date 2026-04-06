@@ -1,0 +1,31 @@
+id: the-league-of-dark-few
+title: The League of Dark Few
+authors:
+  - Anthony Zinni
+categories:
+  - Anthology
+  - Zine
+  - Funnel
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+  - Dungeon
+themes:
+  - Intrigue
+lmin: 0
+lmax: 1
+desc: >
+  A city-based mini-setting zine series centered around a secretive organization called the League of Dark Few, made up of string-pullers brokering influence. Includes a guidebook with contract generator, a zero-level gauntlet in dungeons underneath the Vulgar Manse, and a first-level adventure in the Crypt of the Forgotten Duke.
+pub: Revivify Games
+date: "2026-06"
+cover: https://i.kickstarter.com/assets/052/344/979/55ca9ff7ba63ba3e16765f392bd1f81f_original.jpg?fit=scale-down&origin=ugc&q=80&v=1769374976&width=600&sig=afj3baNKpeIeTb4wifybxbcYZOV4rfVPaQ31CkHUDak%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/zinni/the-league-of-dark-few-saga-a-dcc-and-shadowdark-zine
+    language: en
+    type: ebook-and-print
+    pricing: paid

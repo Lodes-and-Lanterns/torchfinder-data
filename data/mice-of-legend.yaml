@@ -1,0 +1,37 @@
+id: mice-of-legend
+title: Mice of Legend
+authors:
+  - Paul Hoeffer
+categories:
+  - Adventure
+  - Campaign
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+  - Dungeon
+themes:
+  - Action
+  - Comedy
+  - Exploration
+character_options:
+  - Druid
+  - Illusionist
+  - Half-rat
+  - Vole
+  - Henchmice
+pages: 300
+desc: >
+  A highly-praised and unique saga of heroic mouse-people rewritten for Shadowdark. Includes an expansive campaign guide, three uncondensed adventures, over 25 full-color VTT-ready maps, loads of spells, mounts, and hawk taming. (Reese here, creator of Torchfinder. My wife - who has thus far turned down my requests to play Shadowdark - saw Mice of Legend while I was inputting it. She instantly changed her mind. How's that for a description?)
+pub: Indie
+date: "2026-05"
+cover: https://i.kickstarter.com/assets/052/473/517/7c931ed868404e5096806af79fc1f0c4_original.png?fit=scale-down&origin=ugc&q=100&v=1770220624&width=680&sig=thc0mlG3yqqRcTTIa1x2Ld8c0%2Fw3OLbHrRoLoNX%2FrZQ%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/miceoflegend/mice-of-legend-shadowdark-edition
+    language: en
+    type: ebook-and-print
+    pricing: paid
