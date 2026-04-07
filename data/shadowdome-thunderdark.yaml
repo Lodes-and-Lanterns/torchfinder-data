@@ -6,12 +6,13 @@ categories:
   - Zine
 systems:
   - Shadowdark
+  - System-Agnostic
 settings:
   - Setting-Agnostic
   - Western Reaches
 envs:
   - Megadungeon
-desc: 'A community-sourced megadungeon generator created for Gary Con XVI, featuring 11 new monsters, 50 dungeon rooms, and trap and hazard roll tables with over 1,700 possible results.'
+desc: 'A community-sourced megadungeon generator created for the 2024 Gary Con XVI, featuring 11 new monsters, 50 dungeon rooms, NPC tables, and danger roll tables with over 1,700 possible results each.'
 pages: 28
 cover: 'https://www.thearcanelibrary.com/cdn/shop/files/ShadowdomeThunderdarkCover_2000x.png'
 links:

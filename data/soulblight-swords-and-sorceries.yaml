@@ -2,6 +2,7 @@ id: soulblight-swords-and-sorceries
 title: Soulblight - Swords and Sorceries
 authors:
   - Laurin David Weggen
+  - Taylor Seelie-Wright (Signals From Beyond)
 categories:
   - Anthology
 systems:
@@ -19,9 +20,14 @@ themes:
   - Action
   - Heist
   - Religion
-desc: 'A free anthology of adventures covering the breadth of the Soulblight setting, taking parties across Lothorian''s varied environments, from jungle temples and desert ruins to planar expeditions and underworld oddities across the seven realms.'
+desc: 'A grand anthology of adventures indulging the breadth of the Soulblight campaign setting, taking parties across Lothorian''s varied environments, from jungle temples and desert ruins to planar expeditions and underworld oddities across the seven realms. Nerve-racking escape sequences, necromancy, and wereleopards included.'
 cover: 'https://img.itch.zone/aW1hZ2UvMzg1NjAwNS8yMzAwMzg0NC5qcGc=/347x500/Q7NZj2.jpg'
 links:
+  - title: Amazon (Paperback)
+    url: 'https://www.amazon.com/dp/B0GDZSSMH8'
+    language: en
+    type: print
+    pricing: paid
   - title: itch.io
     url: 'https://laurin-david-weggen.itch.io/soulblight-swords-and-sorceries'
     language: en

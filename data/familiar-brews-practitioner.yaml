@@ -1,7 +1,7 @@
 id: familiar-brews-practitioner
 title: 'Familiar Brews: The Practitioner Class'
 authors:
-  - Jake Savala
+   - Jake Savala (brewin_druid)
 categories:
   - Supplement
 systems:
@@ -10,9 +10,10 @@ settings:
   - Setting-Agnostic
 character_options:
   - Practitioner
-desc: 'A free Practitioner class. The Practitioner bonds with a powerful familiar and brews magical concoctions to aid allies and hinder foes.'
+desc: >
+  Brew potent concoctions with the free Practitioner class, and not without help from one of five familiars. There's even a template for creating your own. Cook up something new and bond with your familiar simultaneously.
 pub: Indie
-date: "2023"
+date: "2023-01-06"
 cover: 'https://img.itch.zone/aW1nLzgyOTA1ODEuanBlZw==/347x500/B61%2BOF.jpeg'
 links:
   - title: itch.io

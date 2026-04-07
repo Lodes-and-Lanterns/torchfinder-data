@@ -9,10 +9,52 @@ systems:
   - Shadowdark
 settings:
   - Setting-Agnostic
+character_options:
+  - Antfolk
+  - Apefolk
+  - Badgerfolk
+  - Batfolk
+  - Bearfolk
+  - Beefolk
+  - Birdfolk
+  - Boarfolk
+  - Butterflyfolk
+  - Catfolk
+  - Cattlefolk
+  - Corvidfolk
+  - Crabfolk
+  - Cricketfolk
+  - Deerfolk
+  - Dogfolk
+  - Duckfolk
+  - Fishfolk
+  - Foxfolk
+  - Frogfolk
+  - Gatorfolk
+  - Goatfolk
+  - Horsefolk
+  - Lionfolk
+  - Lizardfolk
+  - Locustfolk
+  - Mantisfolk
+  - Monkeyfolk
+  - Mousefolk
+  - Otterfolk
+  - Pigfolk
+  - Rabbitfolk
+  - Raccoonfolk
+  - Raptorfolk
+  - Ratfolk
+  - Roachfolk
+  - Serpentfolk
+  - Sheepfolk
+  - Skunkfolk
+  - Tigerfolk
+  - Wolffolk
 pages: 16
-desc: 'Forty-one playable anthropomorphic animal ancestries collectively known as Thanians. Covers a wide range of beast-folk from canine to feline to reptilian and beyond, each with distinct traits for character creation.'
+desc: 'Forty-one "Thanians," or anthropomorphic, playable Beastfolk. Covers a wide range from canine to dinosaur and beyond, each with distinct traits and likely societal systems to be used for character creation.'
 pub: Indie
-date: "2022-11-20"
+date: "2022-11-21"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/417306.webp'
 links:
   - title: DriveThruRPG

@@ -1,7 +1,7 @@
 id: pleasures-of-the-dream-palace
 title: Pleasures of the Dream Palace
 authors:
-  - Taylor Seely-Wright
+  - Taylor Seely-Wright (Signals From Beyond)
 categories:
   - Adventure
   - One-Shot
@@ -13,11 +13,13 @@ envs:
   - Dungeon
   - Planar
 themes:
+  - Intrigue
   - Horror
   - Weird
 lmin: 3
 lmax: 5
-desc: "A dungeon crawl for 3rd- to 5th-level characters. Sinister demonic entanglements tied to a respectable village family lead to the Dream Palace: a surreal, trap-laden otherworldly space with a poor survival rate for visitors."
+desc: >
+  A factional powerkeg for 3rd- to 5th-level characters to ignite within the Glassform Palace... that may just break the fourth wall. Features otherworldly intrigue wherein sinister demonic entanglements, a family in turmoil, and a "superstructure built entirely of thought" push forward an open-ended narrative that rewards strategic decision-making.
 pub: Indie
 date: "2024-08"
 cover: 'https://img.itch.zone/aW1nLzE3NTEwNTUzLnBuZw==/original/FFHMF0.png'

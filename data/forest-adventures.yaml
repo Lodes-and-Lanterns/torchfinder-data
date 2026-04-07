@@ -2,19 +2,26 @@ id: forest-adventures
 title: 'Forest Adventures'
 authors:
   - James Mishler
+  - Jodi Moran-Mishler
 categories:
   - Supplement
   - Sandbox
+  - Hexcrawl
 systems:
   - Shadowdark
+  - System-Agnostic
 settings:
   - Setting-Agnostic
+  - Hawkmoor
+character_options:
+  - Oozeling
+  - Hermit
 envs:
   - Forest
 pages: 40
-desc: 'A hex-based forest supplement for the Hawkmoor setting detailing Witchyflow Vale, adding the Oozeling ancestry, the Hermit class, 20 new spells, 15 new creatures, and 25 encounter-populated hexes with dual GM/player maps.'
+desc: 'A hex-based forest supplement made with the Hawkmoor setting in mind. It details Witchyflow Vale, which can expand any setting or even systems other than Shadowdark. Includes the Oozeling ancestry, the Hermit class, 20 new spells, 15 new creatures, and 25 encounter-populated hexes with separate maps for GMs and players.'
 pub: Indie
-date: "2025-03-26"
+date: "2025-03-27"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/516668.webp'
 links:
   - title: DriveThruRPG

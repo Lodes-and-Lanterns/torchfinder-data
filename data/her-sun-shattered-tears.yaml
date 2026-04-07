@@ -10,13 +10,14 @@ systems:
 settings:
   - Setting-Agnostic
 envs:
+  - Desert
   - Dungeon
+  - Temple
 themes:
   - Exploration
-  - Horror
 lmin: 1
 lmax: 1
-desc: 'A free 1st-level dungeon delve originally created for the Shadowdark Independent Game Jam. Ten chambers of deadly traps and monsters, driven by an evocative sun-goddess theme.'
+desc: 'A Dark Sun-inspired and free 1st-level dungeon excursion originally created for the 2023 Shadowdark RPG Independent Game Jam. As thralls of a twisted Sorcerer-Queen, the players search for an ancient relic upon entering an unearthed temple.'
 pub: Trident Gamebooks
 date: "2023-07"
 cover: 'https://img.itch.zone/aW1hZ2UvMjEzNTM5Ni8xNDQ5NDQwMy5wbmc=/347x500/5HHPqS.png'

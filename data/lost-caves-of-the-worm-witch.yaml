@@ -13,12 +13,13 @@ envs:
   - Cave
   - Dungeon
   - Temple
+  - Desert
 themes:
   - Horror
   - Weird
 lmin: 3
 lmax: 3
-desc: 'A 3rd-level dungeon set in the subterranean lair of an undead bard, featuring bizarre hybrid undead creatures and layered environments spanning a scorpion-god temple, kobold idol cult, and dark elf catacombs.'
+desc: 'A 3rd-level dungeon set in the subterranean labyrinth of an undead bard, featuring bizarre hybrid undead creatures and 34 chambers spanning a scorpion-god temple, kobold idol cult, and dark elf catacombs.'
 pub: Trident Gamebooks
 date: "2023"
 cover: 'https://img.itch.zone/aW1hZ2UvMTk2MDE0MS8xNzkyNDgzOS5wbmc=/347x500/iLyAhj.png'

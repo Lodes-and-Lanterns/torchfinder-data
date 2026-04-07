@@ -17,7 +17,7 @@ themes:
 lmin: 1
 lmax: 6
 pages: 70
-desc: 'A 70-page megadungeon spanning levels 1–6. A recently rediscovered series of caves descends deep into the barrow-earth, with six layers of encounters, hazards, and plunder waiting below.'
+desc: 'A 70-page megadungeon spanning levels one through six. A recently rediscovered cave network cascades deep underfoot. Includes a milk-white tower in the Badlands, humanoids with the visages of fish, a black mage intent on corruption of a divine artifact, and much more.'
 pub: Menagerie Press
 date: "2023-07-28"
 cover: 'https://img.itch.zone/aW1hZ2UvMjE5MjY4Ni8xMjk1Mjg2MS5wbmc=/347x500/kAXQfQ.png'
@@ -30,5 +30,5 @@ links:
   - title: DriveThruRPG
     url: https://www.drivethrurpg.com/en/product/445311/the-pits-of-brund-for-shadowdark-rpg
     language: en
-    type: ebook
+    type: ebook-and-print
     pricing: paid

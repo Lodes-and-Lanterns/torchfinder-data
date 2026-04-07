@@ -12,11 +12,15 @@ settings:
 envs:
   - Dungeon
   - Ruins
+  - Urban
 themes:
+  - Action
   - Exploration
 lmin: 1
 lmax: 5
-desc: 'An adventure anthology featuring nine distinct locations for levels 1–5. Each site presents its own hazards, inhabitants, and rewards for parties exploring the wider region.'
+pages: 94
+desc: >
+  An adventure anthology featuring various locales for levels 1–5, including over fifteen wilderness and six urban encounters featuring grifters, cave trolls, and wine. Will you peer into a magical reflecting pool? Would you open Shune's Door? Should the tomb of an ancient elf-lord be pilfered for its riches? Can you rescue Lord Oster's fiancée from her captors? The answers to these questions will challenge and thrill the party.
 pub: Menagerie Press
 date: "2024-01-23"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/5353/461662.webp'

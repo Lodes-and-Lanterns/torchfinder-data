@@ -1,7 +1,7 @@
 id: off-the-chain-sk8r-boi
 title: 'Off the Chain: The Sk8r Boi Class'
 authors:
-  - Jake Savala
+   - Jake Savala (brewin_druid)
 categories:
   - Supplement
 systems:
@@ -10,9 +10,9 @@ settings:
   - Setting-Agnostic
 character_options:
   - Sk8r Boi
-desc: 'A free Sk8r Boi class. A sidewalk-surfer brought to the dungeon, using speed and acrobatic tricks to shred the darkness below.'
+desc: 'A free Sk8r Boi class. Bring sidewalk-surfing to the dungeon, using speed and acrobatic tricks to kickflip over the darkness below.'
 pub: Indie
-date: "2023"
+date: "2023-01-11"
 cover: 'https://img.itch.zone/aW1nLzEwMTYxMjQ2LnBuZw==/347x500/mY599Z.png'
 links:
   - title: itch.io

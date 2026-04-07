@@ -2,17 +2,20 @@ id: city-of-hawkmoor
 title: 'City of Hawkmoor'
 authors:
   - James Mishler
+  - Jodi Moran-Mishler
 categories:
   - Supplement
 systems:
   - Shadowdark
 settings:
-  - Setting-Agnostic
+  - Hawkmoor
 envs:
   - Urban
-desc: 'A fantasy city designed for use with the Shadowdark RPG. City of Hawkmoor provides the framework for the Hawkmoor campaign setting, detailing the city at the heart of the Great Enchanted Vale.'
+desc: >
+  The urban-fantasy "City of Hawkmoor" provides the framework for and initial installment of the Hawkmoor campaign setting, detailing the 12-quarter city at the heart of the Great Enchanted Vale. Includes the details you need to know about the 8,000-person city, including history and politics, and the ten-level undercity lying underneath.
+pages: 24
 pub: Indie
-date: "2023-06-22"
+date: "2023-06-23"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/442577.webp'
 links:
   - title: DriveThruRPG

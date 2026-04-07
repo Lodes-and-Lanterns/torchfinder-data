@@ -5,6 +5,7 @@ authors:
 categories:
   - Supplement
   - Hexcrawl
+  - Bestiary
 systems:
   - Shadowdark
 settings:
@@ -14,10 +15,20 @@ envs:
   - Wilderness
 lmin: 2
 lmax: 5
-desc: 'An 82-page Soulblight hexcrawl set in a region of Lothorian already lost to the Sovereigns'' corruption, populated by scattered survivors. Includes the Old Hero''s Tomb dungeon, 90+ new monsters, and mechanics for tracking the blight''s advance.'
+desc: 'An 82-page Soulblight hex and dungeon crawl set in a region of Lothorian already lost to the chasmborne Sovereigns'' corruption, populated by scattered survivors who must now escape. Includes the Old Hero''s Tomb dungeon, over 90 new monsters, and mechanics for tracking the blight''s advance under the descending dark eye sun.'
 pages: 82
 cover: 'https://img.itch.zone/aW1nLzE1NzY2MTgwLnBuZw==/315x250%23cb/hx8RJH.png'
 links:
+  - title: Amazon (Hardcover)
+    url: 'https://www.amazon.com/dp/B0D2GVL9TH'
+    language: en
+    type: print
+    pricing: paid
+  - title: Amazon (Paperback)
+    url: 'https://www.amazon.com/Soulblight-Dying-Vale-Laurin-David-Weggen/dp/B0D2CS8PLD'
+    language: en
+    type: print
+    pricing: paid
   - title: itch.io
     url: 'https://laurin-david-weggen.itch.io/soulblight-the-dying-vale'
     language: en

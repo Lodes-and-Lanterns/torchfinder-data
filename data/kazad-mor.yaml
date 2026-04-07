@@ -1,7 +1,7 @@
 id: kazad-mor
 title: 'Kazad Mor: The Cursed Dwarfhome'
 authors:
-  - Taylor Seely-Wright
+  - Taylor Seely-Wright (Signals From Beyond)
 categories:
   - Adventure
   - One-Shot
@@ -15,12 +15,13 @@ envs:
   - Stronghold
 themes:
   - Exploration
+  - Survival
 lmin: 1
 lmax: 1
 pages: 24
-desc: 'A 1st-level dungeon set in the abandoned halls of Kazad Mor, a cursed dwarven stronghold. Nearly forty rooms of hazards, monsters, and plunder await parties willing to plumb its depths.'
+desc: 'A 1st-level dungeon set in the cursed halls of Kazad Mor, a cursed dwarven stronghold. Over 40 rooms of hazards, 21 new monsters, and plunder await parties willing to plumb its depths. Includes high-res maps.'
 pub: Indie
-date: "2024-02-21"
+date: "2021-21-21"
 cover: 'https://img.itch.zone/aW1hZ2UvMjM3MzI5My8xNDA1NDMwNS5wbmc=/347x500/95P6u1.png'
 links:
   - title: itch.io

@@ -2,6 +2,7 @@ id: expanded-dragons
 title: 'Expanded Dragons'
 authors:
   - James Mishler
+  - Jodi Moran-Mishler
 categories:
   - Supplement
   - Bestiary
@@ -9,9 +10,9 @@ systems:
   - Shadowdark
 settings:
   - Setting-Agnostic
-desc: 'A dragon generation system covering six dragon types across 1st- to 20th-level power tiers. Each dragon is individually assembled from stats, talents, magic, and treasure rather than pulled from a single fixed template.'
+desc: 'A dragon generator for six types across 1st- to 20th-level power tiers. Each dragon is individually assembled from properties including stats, talents, magic, and treasure rather than pulled from a single fixed template.'
 pub: Indie
-date: "2023-06"
+date: "2023-06-16"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/441707.webp'
 links:
   - title: DriveThruRPG

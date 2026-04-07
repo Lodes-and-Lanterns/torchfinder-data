@@ -1,7 +1,7 @@
 id: the-beast-class
 title: 'The Beast: Werewolf Class'
 authors:
-  - Taylor Seely-Wright
+  - Taylor Seely-Wright (Signals From Beyond)
 categories:
   - Supplement
 systems:
@@ -10,7 +10,8 @@ settings:
   - Setting-Agnostic
 character_options:
   - Beast
-desc: 'A half-feral class built around primal instincts and escalating physical power. At higher levels, the Beast unlocks full werewolf transformation, bringing savage ferocity to combat.'
+  - Werewolf
+desc: 'A half-feral class built around primal instincts and escalating physical power. The Beast class can unlock full werewolf transformation, bringing savage ferocity to combat and unique exploration opportunities.'
 pub: Indie
 date: "2023"
 cover: 'https://img.itch.zone/aW1nLzE0MDUzODkyLnBuZw==/347x500/Nnzp9u.png'

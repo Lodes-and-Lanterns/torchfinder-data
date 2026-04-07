@@ -1,7 +1,7 @@
 id: double-trouble-dancer
 title: 'Double Trouble: The Dancer Class'
 authors:
-  - Jake Savala
+   - Jake Savala (brewin_druid)
 categories:
   - Supplement
 systems:
@@ -12,7 +12,7 @@ character_options:
   - Dancer
 desc: 'A free class built around dual-wielding and evasion. The Dancer uses rapid movement and two-weapon techniques to outmaneuver opponents in close combat.'
 pub: Indie
-date: "2023"
+date: "2023-01-11"
 cover: 'https://img.itch.zone/aW1nLzEwODQyNzI4LmpwZw==/347x500/gRdh%2Bp.jpg'
 links:
   - title: itch.io

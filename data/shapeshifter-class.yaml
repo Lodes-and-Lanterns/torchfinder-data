@@ -2,6 +2,7 @@ id: shapeshifter-class
 title: 'Shapeshifter Class'
 authors:
   - James Mishler
+  - Jodi Moran-Mishler
 categories:
   - Supplement
 systems:
@@ -10,9 +11,10 @@ settings:
   - Setting-Agnostic
 character_options:
   - Shapeshifter
-desc: 'A class focused on mastering animal forms through study and attunement. The Shapeshifter bonds with animals over time, gaining the ability to communicate with them and transform into their physical forms.'
+desc: 'A class focused on mastering animal forms through study and attunement. The Shapeshifter bonds with animals over time, gaining the ability to communicate with them and transform into their natural and magical forms.'
 pub: Indie
-date: "2023"
+date: "2023-05-21"
+pages: 8
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/438452.webp'
 links:
   - title: DriveThruRPG

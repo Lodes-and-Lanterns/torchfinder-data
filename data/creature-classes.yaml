@@ -2,16 +2,26 @@ id: creature-classes
 title: 'Creature Classes'
 authors:
   - James Mishler
+  - Jodi Moran-Mishler
 categories:
   - Supplement
 systems:
   - Shadowdark
 settings:
   - Setting-Agnostic
+character_options:
+  - Catkin
+  - Equizard
+  - Mind Mouse
+  - Petty Dragon
+  - Shimmercat
+  - Spirit Fox
+  - Sternulf
+  - Wink Dog
 pages: 12
-desc: 'Eight playable creature ancestry classes, usable as both player characters and monstrous opponents: Catkin, Equizards, Mind Mice, Petty Dragons, Shimmercats, Spirit Foxes, Sternulfs, and Wink Dogs. Includes a creature-specific background table.'
+desc: 'Eight playable creature ancestry classes: Catkin, Equizards, Mind Mice, Petty Dragons, Shimmercats, Spirit Foxes, Sternulfs, and Wink Dogs. Includes a creature-specific background table.'
 pub: Indie
-date: "2023"
+date: "2023-05-29"
 cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/439312.webp'
 links:
   - title: DriveThruRPG

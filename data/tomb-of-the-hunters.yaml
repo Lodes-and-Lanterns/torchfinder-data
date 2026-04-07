@@ -12,10 +12,13 @@ settings:
 envs:
   - Dungeon
 themes:
+  - Action
   - Exploration
 lmin: 1
 lmax: 1
-desc: 'A 5-room dungeon created for the Shadowdark Independent Game Jam. Features evocative monster encounters and layered exploration in a compact tomb.'
+pages: 4
+desc: >
+  A five-room dungeon (and part of the six-part Pits of Brund megadungeon) created for the Baron de Ropp's Shadowdark Independent Game Jam. Features hair-raising monster encounters, unique hazards and afflictions, and layered exploration in an action-packed tomb.
 pub: Menagerie Press
 date: "2023-07-03"
 cover: https://img.itch.zone/aW1hZ2UvMjE0NDQyMS8xMjY0NzAyOC5wbmc=/347x500/SIu79%2B.png

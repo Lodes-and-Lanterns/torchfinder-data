@@ -5,6 +5,7 @@ authors:
 categories:
   - Supplement
   - Hexcrawl
+  - Bestiary
 systems:
   - Shadowdark
 settings:
@@ -17,8 +18,8 @@ envs:
 themes:
   - Action
   - Intrigue
-desc: 'A 292-page Soulblight expansion set on the Mediterranean-inspired Islands of Hamartis, where the players are delivered to an island penal colony by royal decree. Multiple paths forward — escape, rebellion, or piracy — play out across a hexcrawl, a 50+ room dungeon, and 100+ new monsters.'
 pages: 292
+desc: 'A 292-page Soulblight expansion set on the Mediterranean-inspired Islands of Hamartis, where players are delivered to a penal colony by royal decree. Echoes of the Reconquista pervade the multiple paths forward — escape, rebellion, or piracy — playing out across a hexcrawl and dungeon of over 50 rooms, black powder weaponry, and over 100 new monsters.'
 cover: 'https://img.itch.zone/aW1nLzI1MDYwNTg0LnBuZw==/315x250%23cb/30Awkh.png'
 links:
   - title: itch.io

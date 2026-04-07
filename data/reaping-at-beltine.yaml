@@ -1,7 +1,7 @@
 id: reaping-at-beltine
 title: Reaping at Beltine
 authors:
-  - Taylor Seely-Wright
+  - Taylor Seely-Wright (Signals From Beyond)
 categories:
   - Adventure
   - One-Shot
@@ -10,13 +10,13 @@ systems:
 settings:
   - Setting-Agnostic
 envs:
-  - Urban
   - Dungeon
 themes:
   - Horror
 lmin: 3
 lmax: 3
-desc: 'A 3rd-level adventure in the town of Beltine, on the anniversary of a brutal family slaughter. The Kugo family has returned from death as monstrous risen puppets, and the town''s survival depends on the party.'
+desc: >
+  A 3rd-level dungeon crawl in the town of Beltine, where on the anniversary of a family's slaying, they've returned from death as horrid puppets. The town's survival is up to the players, whose choice between action and inaction in the ensuing days can have lasting consequences.
 pub: Indie
 date: "2023-07"
 cover: 'https://img.itch.zone/aW1hZ2UvMjE0NTIwMS8xMjY1MjQwNC5wbmc=/347x500/7od08A.png'
