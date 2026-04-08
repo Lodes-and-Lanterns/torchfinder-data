@@ -1,0 +1,36 @@
+id: shadowdark-cursed-scroll-4-river-of-night
+title: 'Cursed Scroll Zine, Vol. 4: River of Night'
+authors:
+  - Kelsey Dionne
+  - Baron de Ropp
+categories:
+  - Zine
+  - Hexcrawl
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Jungle
+  - Wilderness
+themes:
+  - Exploration
+  - Action
+character_options:
+  - Ranger
+  - Basilisk Warrior
+  - Druid
+desc: 'The fourth Cursed Scroll zine for Shadowdark RPG: cross the river into the menacing Tal-Yool Jungle. Adds the Ranger and Basilisk Warrior classes, a complete Druid spell list, a hexcrawl, and nine mini-adventures.'
+pages: 64
+cover: https://i.kickstarter.com/assets/048/462/883/d2707d996318d05f7b29780f4334c08a_original.jpg?fit=scale-down&origin=ugc&q=80&v=1741583524&width=600&sig=PV5ARGbcLu9MIg6oiZBbDeFydMDaoSHQ%2BbyyDFoNLsk%3D
+links:
+  - title: Kickstarter
+    url: 'https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2026-06"

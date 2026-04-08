@@ -1,0 +1,40 @@
+id: shadowdark-rpg-western-reaches-game-masters-guide
+title: "Shadowdark RPG: Game Master's Guide to the Western Reaches"
+authors:
+  - Kelsey Dionne
+categories:
+  - Rules
+  - Sandbox
+  - Supplement
+  - Hexcrawl
+  - Bestiary
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Western Reaches
+envs:
+  - Wilderness
+  - Dungeon
+  - Urban
+  - Forest
+  - Desert
+  - Jungle
+  - Swamp
+  - Mountain
+  - Sea
+  - Cave
+themes:
+  - Exploration
+desc: "Game Master's Guide to the Western Reaches, a digest-sized companion to the Shadowdark RPG core rules. Forming a massive campaign setting alongside the Player's Guide, they combine and expand all content from Cursed Scroll zines 1-6. It includes all hexcrawling keys from those zines, and features a full map of the Western Reaches, 16 regions (10 new), over 250 keyed locations, the monsters from Cursed Scrolls 1-6 and new ones, talent-learning mechanics from NPCs, sandbox options and advice, and a new kickoff adventure."
+pages: 200
+cover: https://i.kickstarter.com/assets/048/462/912/a8f3cf0bb52a04c8265a5f85f5938a04_original.jpg?fit=scale-down&origin=ugc&q=80&v=1741583806&width=600&sig=U%2BU2k6TbK8dUxQ3zTJCIiyn5h7MQOqNqxGWqmMTk%2BRs%3D
+links:
+  - title: Kickstarter
+    url: 'https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2026-06"

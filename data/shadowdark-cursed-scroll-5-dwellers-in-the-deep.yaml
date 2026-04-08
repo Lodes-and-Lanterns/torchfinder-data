@@ -1,0 +1,34 @@
+id: shadowdark-cursed-scroll-5-dwellers-in-the-deep
+title: 'Cursed Scroll Zine, Vol. 5: Dwellers in the Deep'
+authors:
+  - Kelsey Dionne
+categories:
+  - Zine
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+envs:
+  - Dungeon
+  - Cave
+themes:
+  - Horror
+  - Exploration
+character_options:
+  - Delver
+  - Wyrdling
+desc: >
+  The fifth Cursed Scroll zine for Shadowdark RPG: explore Morzomotha, a grim region only for those who don't fear the Shadowdark. Adds the Delver and Wyrdling classes, a complete spell list for chaotic wizards, and the Goulish Library of Leng adventure.
+pages: 64
+cover: https://i.kickstarter.com/assets/048/462/886/80b9426d0ac4d3e967d98af913ebb1a2_original.jpg?fit=scale-down&origin=ugc&q=80&v=1741583543&width=600&sig=Sjk9nDZ5PgUdMerwASaXMCxZnVXHb0J%2Fqb9%2BkSINwXQ%3D
+links:
+  - title: Kickstarter
+    url: 'https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+pub: The Arcane Library
+official: true
+date: "2026-06"

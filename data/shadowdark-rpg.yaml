@@ -10,6 +10,12 @@ settings:
   - Setting-Agnostic
   - Western Reaches
 character_options:
+  - Dwarf
+  - Goblin
+  - Elf
+  - Half-Orc
+  - Halfling
+  - Human
   - Fighter
   - Priest
   - Thief
@@ -27,6 +33,11 @@ links:
     url: 'https://www.thearcanelibrary.com/products/shadowdark-rpg-pdf'
     language: en
     type: ebook
+    pricing: paid
+  - title: Kickstarter
+    url: 'https://www.kickstarter.com/projects/shadowdarkrpg/shadowdark-rpg-old-school-gaming-modernized'
+    language: en
+    type: ebook-and-print
     pricing: paid
 pub: The Arcane Library
 official: true
