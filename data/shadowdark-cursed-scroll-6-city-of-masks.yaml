@@ -5,6 +5,7 @@ authors:
 categories:
   - Zine
   - Sandbox
+  - Pointcrawl
 systems:
   - Shadowdark
 settings:
@@ -18,7 +19,7 @@ themes:
 character_options:
   - Bard
   - Duelist
-desc: 'The sixth Cursed Scroll zine for Shadowdark RPG: citycrawl through the perilous, fabled City of Masks. Adds the Bard and Duelist classes, spells for lawful wizards, and greatly expands carousing and downtime rules.'
+desc: 'The sixth Cursed Scroll zine for Shadowdark RPG: city-crawl through the perilous, fabled City of Masks. Adds the Bard and Duelist classes, spells for lawful wizards, and greatly expands carousing and downtime rules.'
 pages: 64
 cover: https://i.kickstarter.com/assets/048/462/895/9404c01bc7821401969137080aec7a7e_original.jpg?fit=scale-down&origin=ugc&q=80&v=1741583607&width=600&sig=RB2vfVepMOZwfArHOkbmVb7Zvalb5PuKQre2qKTduRg%3D
 links:
