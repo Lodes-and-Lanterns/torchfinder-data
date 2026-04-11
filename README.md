@@ -21,9 +21,26 @@ The project spans two repositories under the [Lodes & Lanterns](https://github.c
 
 ## License
 
+All product names, logos, and cover images are the property of their respective
+owners and are included in the dataset for identification and reference
+purposes only. Cover images are hotlinked from publisher sources and not hosted
+by this project. Descriptions are either original or used with permission from
+rights holders, and may include brief attributed excerpts linked to their
+original sources.
+
+Rights holders with questions or concerns about included content are welcome to
+open a
+[GitHub issue](https://github.com/Lodes-and-Lanterns/torchfinder-data/issues) or
+contact [_reese at lodesandlanterns dot com_] directly.
+
+Original non-software content authored for this project is licensed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+
+The software itself is licensed as such:
+
 **Copyright (c) 2026 Reese Schultz**
 
-All contributions to this repository are licensed under [MIT](LICENSE).
+Software contributions to this repository are licensed under [MIT](LICENSE).
 
 ## Disclaimer
 
