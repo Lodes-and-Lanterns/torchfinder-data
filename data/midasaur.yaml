@@ -1,0 +1,25 @@
+id: midasaur
+title: Midasaur
+authors:
+  - Darcy Perry
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Action
+  - Weird
+desc: 'An adventure set in a convoluted structure said to hold impossible wealth. The creature hoarding it is no ordinary beast: Midasaur the Mighty was once an adventurer whose path to sorcerer-king laid bare the perils of unchecked greed. What party could ignore the allure of such a fable?'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyNzY1ODI5LnBuZw==/315x250%23cb/RcFMLx.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://duckquest.itch.io/midasaur-by-darcy-perry
+    language: en
+    type: ebook
+    pricing: pwyw

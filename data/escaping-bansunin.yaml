@@ -1,0 +1,29 @@
+id: escaping-bansunin
+title: Escaping Bansunin
+authors:
+  - Nick Campbell (Cri)
+categories:
+  - Adventure
+  - Gauntlet
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Dungeon
+themes:
+  - Horror
+  - Survival
+lmin: 0
+lmax: 0
+desc: 'A 0th-level gauntlet set in lightless underground captivity. Characters are forced laborers in a subterranean camp and fed only what their captors deem expendable. Getting out alive is the only objective, and most won''t. The author''s debut adventure.'
+pub: Made by Idle Hands
+cover: https://img.itch.zone/aW1nLzIwOTg5NzQ4LnBuZw==/315x250%23c/M%2FY7ex.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://madebyidlehands.itch.io/escaping-bansunin
+    language: en
+    type: ebook
+    pricing: pwyw

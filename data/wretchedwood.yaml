@@ -1,0 +1,28 @@
+id: wretchedwood
+title: Wretchedwood
+authors:
+  - Trevor Nataluk (fablesfounding)
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+  - Wilderness
+themes:
+  - Horror
+  - Exploration
+lmin: 3
+lmax: 5
+desc: 'A 3rd- to 5th-level excursion through a regional blight that must be contained lest its supernatural source corrupt the entire world.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyNjU3NjYzLnBuZw==/315x250%23cb/9iWQUn.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://fablesfounding.itch.io/wretchedwood
+    language: en
+    type: ebook
+    pricing: pwyw

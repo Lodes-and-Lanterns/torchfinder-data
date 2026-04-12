@@ -1,0 +1,30 @@
+id: keep-of-the-colorless-crown
+title: Keep of the Colorless Crown
+authors:
+  - carrosa
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Forest
+  - Stronghold
+themes:
+  - Horror
+  - Exploration
+lmin: 6
+lmax: 6
+desc: "Lady Galanos, framed for treason by her own brother, spent millennia in isolation until nothing remained of her but loathing for those who took her keep. Their petrified remains, devoid of any color, indicate that the lady's prolonged life force is as pallid as the sparse and leafless trees outside. Treasures await those who can tread where others don't dare."
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEzMDMwOTY4LnBuZw==/315x250%23cb/8WLTw2.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://carrosax.itch.io/colorless-crown
+    language: en
+    type: ebook
+    pricing: pwyw

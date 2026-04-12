@@ -1,0 +1,28 @@
+id: the-brigands-of-bristleback-burrow
+title: The Brigands of Bristleback Burrow!
+authors:
+  - Brynjar Már Pálsson
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Cave
+themes:
+  - Action
+  - Exploration
+lmin: 1
+lmax: 3
+desc: 'A dungeon crawl for 1st- to 3rd-level characters across a secret-riddled temple, a goblin-occupied burrow reclaimed from a warlord, and mines with undead squatters. Includes new monsters and treasures.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzE5NTY5MzQzLnBuZw==/315x250%23c/XCSENQ.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://brynjarmp.itch.io/the-brigands-of-bristleback-burrow
+    language: en
+    type: ebook
+    pricing: pwyw

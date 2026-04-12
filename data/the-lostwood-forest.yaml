@@ -1,0 +1,30 @@
+id: the-lostwood-forest
+title: The Lostwood Forest
+authors:
+  - Bentspoon
+categories:
+  - Adventure
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+  - Wilderness
+themes:
+  - Horror
+  - Exploration
+  - Survival
+lmin: 1
+lmax: 3
+desc: "A hexcrawl for 1st- to 3rd-level adventurers set within the accursed Lostwood Forest, where sleeping steals memories and there is no linear path out. The former people who lingered too long under the forest's influence have succumbed to crazed aggression."
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODMwNzA0LmpwZw==/315x250%23cb/74BwX2.jpg
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://bentspoon.itch.io/the-lostwood-forest
+    language: en
+    type: ebook
+    pricing: free

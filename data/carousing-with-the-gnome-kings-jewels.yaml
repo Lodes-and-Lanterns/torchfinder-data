@@ -1,0 +1,27 @@
+id: carousing-with-the-gnome-kings-jewels
+title: "Carousing with the Gnome King's Jewels"
+authors:
+  - Dead Elf Press
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+  - Dungeon
+themes:
+  - Heist
+  - Exploration
+desc: >
+  After twenty-five years of gossip, there is finally a lead on who stole the crown jewels from the gnome king. Where will the clue lead the party?
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODYwMDUxLmpwZWc=/315x250%23cb/R0Fzfy.jpeg
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://dead-elf-press.itch.io/gnome-king
+    language: en
+    type: ebook
+    pricing: paid

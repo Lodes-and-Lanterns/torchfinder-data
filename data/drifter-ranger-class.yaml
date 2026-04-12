@@ -1,0 +1,22 @@
+id: drifter-ranger-class
+title: Drifter (Ranger) Class
+authors:
+  - Christopher Wade (moatt)
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Drifter
+desc: 'A wilds-focused class for those who like to play beast-attuned trackers, solitary survivalists, and dual-wielding skirmishers. Enables a Drizzt-inspired character concept without destabilizing the table.'
+pub: Brokenshield Press
+cover: https://img.itch.zone/aW1nLzEyNjYwODU1LnBuZw==/315x250%23cb/%2FBYxd1.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://moatt.itch.io/drifter-class
+    language: en
+    type: ebook
+    pricing: free
