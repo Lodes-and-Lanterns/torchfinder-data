@@ -1,0 +1,21 @@
+id: gnolls-gnolls-gnolls
+title: 'Gnolls! Gnolls! Gnolls!'
+authors:
+  - Brian Coughlin
+categories:
+  - Supplement
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+desc: 'A free gnoll supplement detailing ancestry, backgrounds, lore, bestiary, "demonic gnolls" with special attacks, and tables galore.'
+pub: Grick in the Larder Games
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzEyNzgyMDcxLmpwZw==/347x500/8xOw5o.jpg
+links:
+  - title: itch.io
+    url: https://grick-in-the-larder-games.itch.io/gnolls-gnolls-gnolls
+    language: en
+    type: ebook
+    pricing: free

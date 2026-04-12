@@ -1,0 +1,23 @@
+id: the-hammermancer
+title: The Hammermancer
+authors:
+  - Cameron Maas
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Hammermancer
+pages: 6
+desc: 'Blood for steel: the Hammermancer spends hit points to call special hammer artifacts into existence, all in six pages.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzEyODUyOTcyLmpwZw==/347x500/p8Qgsg.jpg
+links:
+  - title: itch.io
+    url: https://cameronmaas.itch.io/the-hammermancer
+    language: en
+    type: ebook
+    pricing: pwyw

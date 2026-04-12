@@ -1,0 +1,21 @@
+id: prismatic-pudding
+title: Prismatic Pudding
+authors:
+  - 3headedlich
+categories:
+  - Supplement
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+desc: 'A single-monster supplement introducing the Prismatic Pudding: an ooze that drains color from the beings and world around it, then discharges the absorbed energy as mesmerizing beams. Includes a d8 "Prismatic Expulsion" table with distinct chromatic effects.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzEyODg0MzcyLnBuZw==/347x500/%2F1sBPf.png
+links:
+  - title: itch.io
+    url: https://3headedlich.itch.io/prismatic-pudding
+    language: en
+    type: ebook
+    pricing: free

@@ -1,0 +1,30 @@
+id: the-spider-queen-rises
+title: The Spider Queen Rises
+authors:
+  - eyesforteeth
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Forest
+  - Temple
+themes:
+  - Action
+  - Intrigue
+lmin: 3
+lmax: 3
+desc: 'In this 3rd-level adventure, drow priestess Narsalee has gone to ground in a temple concealed in the Sablewood outskirts after losing her Shadowdark sanctuary. Her spider thralls have spread throughout the forest, their hanging fibers making passage through the forest impossible. The local alderman needs the trails cleared in time for the impending harvest festival.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE3MzE5OS8xMjgyNTUwOC5wbmc=/347x500/RWSILC.png
+links:
+  - title: itch.io
+    url: https://eyesforteeth.itch.io/the-spider-queen-rises
+    language: en
+    type: ebook
+    pricing: paid

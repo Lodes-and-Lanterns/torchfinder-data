@@ -1,0 +1,26 @@
+id: the-mini-mushroom-menace
+title: The Mini Mushroom Menace
+authors:
+  - A. Denbigh Strickland
+categories:
+  - Adventure
+  - Gauntlet
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Forest
+  - Swamp
+desc: 'Eight concise pages illustrating a grand face-off with fungal threats ranging from "fungibolds" to rats with toadstools growing out of them. Finale involves a confrontation with their summoner: the sadistic Sporecerer.'
+pub: ArcaneSporecery
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE1MTQ4NS8xMzE3NjE2MC5wbmc=/347x500/paNfpw.png
+links:
+  - title: itch.io
+    url: https://arcanesporecery.itch.io/the-mini-mushroom-menace
+    language: en
+    type: ebook
+    pricing: pwyw

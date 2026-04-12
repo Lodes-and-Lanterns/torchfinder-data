@@ -1,0 +1,22 @@
+id: character-creation-guide-for-shadowdark-rpg
+title: Character Creation Guide for Shadowdark RPG
+authors:
+  - Ardefact
+categories:
+  - Supplement
+  - Accessory
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+pages: 2
+desc: 'A quick reference for creating 0th- and 1st-level characters that distills ancestries, classes, weapons, armor, alignments, deities, backgrounds, languages, spells, and gear on two pages.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzE1MDUyMDQwLnBuZw==/347x500/bcyDFj.png
+links:
+  - title: itch.io
+    url: https://ardefact.itch.io/sdrpg-character-creation-guide
+    language: en
+    type: ebook
+    pricing: free

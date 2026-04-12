@@ -1,0 +1,29 @@
+id: ruins-of-the-immortal-warlord
+title: Ruins of the Immortal Warlord
+authors:
+  - Pakkanen
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Ruins
+  - Stronghold
+  - Island
+themes:
+  - Mystery
+lmin: 3
+lmax: 3
+desc: "A brief 3rd-level dungeon crawl in a collapsed island lich lair designed for minimal-prep play. The location's eleven chambers may hold the answers to a perplexing puzzle box. Three custom enemies, gunpowder-based weapons, and two magic items. Supplements an existing campaign or runs as a one-shot."
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzEyODM2MTU2LnBuZw==/original/n3Dkzq.png
+links:
+  - title: itch.io
+    url: https://pakkanen.itch.io/ruins-of-the-immortal-warlord
+    language: en
+    type: ebook
+    pricing: pwyw

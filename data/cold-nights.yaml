@@ -1,0 +1,30 @@
+id: cold-nights
+title: Cold Nights
+authors:
+  - Marc-Antoine Côté
+categories:
+  - Supplement
+  - Rules
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Arctic
+  - Wilderness
+themes:
+  - Survival
+  - Exploration
+character_options:
+  - Wilder
+desc: 'A supplement that makes the frozen north playable in full. Introduces the Wilder, a class that survives brutal terrain by forging connections with local spirits and beasts. Rounds out the setting with arctic-specific weapons, armor, travel mechanics, cold weather effects, terrain types, gear, and stat blocks for northern creatures and mounts.'
+pub: The Vault Keeper
+date: "2023-07"
+cover: https://img.itch.zone/aW1nLzEyNjk2MjUzLmpwZw==/347x500/Phb%2Ffn.jpg
+links:
+  - title: itch.io
+    url: https://vaultkeeper.itch.io/cold-nights
+    language: en
+    type: ebook
+    pricing: pwyw

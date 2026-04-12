@@ -1,0 +1,24 @@
+id: war-in-the-dark
+title: War in the Dark
+authors:
+  - Skull Azure
+categories:
+  - Supplement
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+themes:
+  - Action
+pages: 6
+desc: 'Six pages of mass combat: a downtime activity for building and maintaining armies, a streamlined resolution system for battles, and generation tables for battlefields and ancestry-specific unit types.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE4MDAyMy8xMjg3MjI4MC5wbmc=/347x500/spiYYL.png
+links:
+  - title: itch.io
+    url: https://skull-azure.itch.io/war-in-the-dark
+    language: en
+    type: ebook
+    pricing: pwyw

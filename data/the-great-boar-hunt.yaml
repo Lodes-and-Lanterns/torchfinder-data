@@ -1,0 +1,28 @@
+id: the-great-boar-hunt
+title: The Great Boar Hunt
+authors:
+  - Dungeon Monkey
+categories:
+  - Adventure
+  - Funnel
+  - Gauntlet
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Stronghold
+lmin: 0
+lmax: 1
+desc: "Each player rolls four hapless commoners and pitches them into a crumbling keep. The rooms hold danger and historical fragments of what instigated ruin. Survivors exit at first level; the rest... don't."
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE3NDg3OC8xMjgzNzQ4OC5wbmc=/347x500/jeml6f.png
+links:
+  - title: itch.io
+    url: https://dungeonmonkey.itch.io/the-great-boar-hunt
+    language: en
+    type: ebook
+    pricing: paid

@@ -1,0 +1,27 @@
+id: the-dark-contracts
+title: The Dark Contracts
+authors:
+  - PhD20
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Weird
+lmin: 1
+lmax: 2
+desc: "Twisted Arthurian myth cross-pollinated with dungeon diving: the fantastical sword shattered, Merlin reduced to a brain in a vat, and whatever consequences the king has left for 1st- to 2nd-level characters to deal with."
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE2ODk1My8xMjg0Mzg3NC5wbmc=/347x500/ZAnHHZ.png
+links:
+  - title: itch.io
+    url: https://phd20.itch.io/the-dark-contracts
+    language: en
+    type: ebook
+    pricing: free

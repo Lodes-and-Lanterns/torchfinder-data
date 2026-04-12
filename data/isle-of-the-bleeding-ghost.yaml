@@ -1,0 +1,29 @@
+id: isle-of-the-bleeding-ghost
+title: Isle of the Bleeding Ghost
+authors:
+  - Jordan D. Thompson (JDT_DM)
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Island
+themes:
+  - Action
+  - Intrigue
+lmin: 1
+lmax: 1
+desc: 'A 1st-level dungeon pirate bonanza set deep below an uncharted island in its overflowing cavities. In the search for fabled booty, defeat skeletons, merfolk, sirens, and a spectre of the Pirate Queen. Includes seventeen keyed rooms, contending factions, sophisticated traps, and a hand-drawn map.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE4MDQ3Ni8xMjg3NTIxNi5wbmc=/347x500/m6EnkH.png
+links:
+  - title: itch.io
+    url: https://jdt-dm.itch.io/isle-of-the-bleeding-ghost
+    language: en
+    type: ebook
+    pricing: pwyw

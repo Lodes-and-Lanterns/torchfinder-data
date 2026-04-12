@@ -1,0 +1,29 @@
+id: dusk-till-dawnbarrow
+title: Dusk till Dawnbarrow
+authors:
+  - Sentaijin
+categories:
+  - Adventure
+  - One-Shot
+  - Gauntlet
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Ruins
+themes:
+  - Mystery
+  - Exploration
+pages: 1
+desc: 'A single-page introductory gauntlet set in an ancient barrow of a strange order. Designed for quick preparation and play.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE3OTcwOS8xMjkxOTMwMi5wbmc=/347x500/VG5qy4.png
+links:
+  - title: itch.io
+    url: https://sentaijin.itch.io/dusk-till-dawnbarrow
+    language: en
+    type: ebook
+    pricing: pwyw

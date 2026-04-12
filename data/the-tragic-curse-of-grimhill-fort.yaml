@@ -1,0 +1,30 @@
+id: the-tragic-curse-of-grimhill-fort
+title: The Tragic Curse of GRIMHILL FORT
+authors:
+  - Reverse Ettin Games
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+  - System-Agnostic
+settings:
+  - Setting-Agnostic
+envs:
+  - Stronghold
+  - Dungeon
+themes:
+  - Horror
+  - Mystery
+lmin: 1
+lmax: 1
+desc: 'Something cursed Grimhill Fort, and the place has not been right since. A 1st-level dungeon with varied opposition and enough buried history to reward those who can avoid burial there themselves.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE1MTI0Ny8xNzYwMTAzMi5qcGc=/347x500/4bhuZ6.jpg
+links:
+  - title: itch.io
+    url: https://reverse-ettin-games.itch.io/the-tragic-curse-of-grimhill-fort
+    language: en
+    type: ebook
+    pricing: pwyw
