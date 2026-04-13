@@ -1,0 +1,27 @@
+id: temple-of-the-feathered-serpent
+title: Temple of The Feathered Serpent
+authors:
+  - Aeo-winkler
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Desert
+  - Temple
+themes:
+  - Action
+  - Exploration
+desc: 'Stylized and inspired by Mesoamerica and its vibrant frescos, this adventure features a ziggurat that grinds out of the sands upon an astronomical conjunction that only occurs once per 55 years. The party must deal with competing treasure hunters and the Black Jaguar that lurks within the trapped interior if they want to recover the Double Chalice, a relic for reversing death. Well, if the undead manifestation of Quetzalcoatl lets them.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTQxMzAyLmpwZw==/315x250%23c/70S398.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://aeo-winkler.itch.io/temple-of-the-feathered-serpent
+    language: en
+    type: ebook
+    pricing: pwyw

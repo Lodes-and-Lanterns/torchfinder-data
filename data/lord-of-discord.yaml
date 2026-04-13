@@ -1,0 +1,30 @@
+id: lord-of-discord
+title: Lord of Discord
+authors:
+  - Anzelak
+categories:
+  - Adventure
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Wilderness
+  - Dungeon
+themes:
+  - Action
+  - Horror
+lmin: 3
+lmax: 3
+desc: 'A 3rd-level hexcrawl in which the party must go to the isle of Skelda to hush a melody. Otherwise, it will lure more unsuspecting souls into the Lord of Discord''s unbeatable test to find his successor. Sent by the King''s Council to end this annual madness, the party must acquire four songs of the ancient Sea Elves to unlock a warded entryway to the Lord''s domain.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTg1NTYxLmpwZWc=/315x250%23cb/iceVHV.jpeg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://anzelak.itch.io/lord-of-discord
+    language: en
+    type: ebook
+    pricing: pwyw

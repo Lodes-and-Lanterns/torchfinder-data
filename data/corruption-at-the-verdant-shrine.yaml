@@ -1,0 +1,32 @@
+id: corruption-at-the-verdant-shrine
+title: Corruption at the Verdant Shrine
+authors:
+  - ExHalibut
+categories:
+  - Adventure
+  - One-Shot
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+  - Dungeon
+themes:
+  - Action
+  - Horror
+lmin: 2
+lmax: 3
+pmin: 3
+pmax: 5
+desc: 'A bearded devil torments scattered humanoid camps near the site of a shrine it had seized in the woods, hunting for a warded magic relic that it would claim as its own... should the party fail to intervene. For three to five 2nd- to 3rd-level characters, this mini-dungeon runs roughly 4-6 hours.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzEyODg5MzkxLnBuZw==/315x250%23cb/L4QOwY.png'
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://exhalibut.itch.io/corruption-at-the-verdant-shrine
+    language: en
+    type: ebook
+    pricing: free

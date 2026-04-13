@@ -1,0 +1,28 @@
+id: ascension-of-the-serpent-queen
+title: Ascension of the Serpent Queen
+authors:
+  - Jay Rutley
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Temple
+themes:
+  - Action
+  - Horror
+lmin: 1
+lmax: 1
+desc: 'To find a prince whose caravan had been ambushed on the way to a diplomatic summit, the party must venture forth into the den of a fanatical cabal and their serpent queen. Survival depends upon slipping past traps and lurking horrors with time to spare for preventing an unspeakable ritual. 1st-level characters must stop the queen from further empowering herself in this adventure that includes tokens and portrait art.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NDk3MDE3LnBuZw==/315x250%23cb/P8my1M.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://greymarch2000.itch.io/ascension-of-the-serpent-queen
+    language: en
+    type: ebook
+    pricing: pwyw

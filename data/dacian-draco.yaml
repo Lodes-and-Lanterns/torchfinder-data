@@ -1,0 +1,28 @@
+id: dacian-draco
+title: Dacian Draco
+authors:
+  - Mal Star
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Weird
+  - Action
+pages: 16
+character_options:
+  - Lone Wolf
+desc: 'Splicing wolves with dragons means a sojourn to the moon, where no torch nor magic will hold sway over the shadows. There are whispers that the Wolf Cult has returned in the accompanying 16-page A5 booklet, detailing a dungeon, compact adventuring area, and a new class called the Lone Wolf.'
+pub: Bad Star Games
+cover: 'https://img.itch.zone/aW1nLzE3NTgzNzY1LnBuZw==/315x250%23cb/5GMwI0.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://malachijs.itch.io/dacian-draco
+    language: en
+    type: ebook
+    pricing: free

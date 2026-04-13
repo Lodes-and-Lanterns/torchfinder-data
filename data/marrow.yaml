@@ -1,0 +1,30 @@
+id: marrow
+title: Marrow
+authors:
+  - Meaghan J
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Underwater
+  - Dungeon
+themes:
+  - Horror
+  - Exploration
+lmin: 3
+lmax: 3
+pmin: 4
+pmax: 6
+desc: 'A retro-future descent into the undersea kingdom of Unlantis where a dormant wreck of a bio-machine notably contains untapped "marrow" fluid. The party, preferably four to six 3rd-level characters, must extract as much as possible before the "Vengeance" stirs back to life. Based on "Vengeance in Her Bones" by Malcolm Jameson.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTg1NTI3LnBuZw==/315x250%23cb/OqKUU4.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://missmeaghanj.itch.io/marrow
+    language: en
+    type: ebook
+    pricing: free
