@@ -1,0 +1,29 @@
+id: the-diabolical-lair-of-professor-memnon
+title: The Diabolical Lair of Professor Memnon
+authors:
+  - Ogre College
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Action
+  - Comedy
+  - Weird
+lmin: 1
+lmax: 3
+desc: 'After one man segues from the aristocratic high life to evil experimentation in a secluded 16-room hideaway, weird goings-on in a nearby town put the party on his trail. 1st- to 3rd-level characters must defeat the pulp-incarnate Professor Memnon and his henchmen (stat blocks included). Provides tables for generating a custom "Supervillain Sanctuary." Includes VTT-amenable tokens and a map.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTEyNjAwLmpwZw==/315x250%23cb/kv9izp.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://ogrecollege.itch.io/the-diabolical-lair-of-professor-memnon
+    language: en
+    type: ebook
+    pricing: pwyw

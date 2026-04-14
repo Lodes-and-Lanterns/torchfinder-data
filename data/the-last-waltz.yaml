@@ -1,0 +1,26 @@
+id: the-last-waltz
+title: The Last Waltz
+authors:
+  - a hobgoblin
+categories:
+  - Gauntlet
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Stronghold
+themes:
+  - Mystery
+lmin: 0
+lmax: 0
+desc: 'The party''s patron tells of a wraith spinning and swaying along the unlit halls of an icicle-bearded manor enveloped in a shroud of deciduous growth. But the grand ball has yet to come to pass. How will the wraith take the characters'' attempt to abscond with the riches piled there for just such an event in this 0th-level gauntlet?'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzIwNzg0NDcxLnBuZw==/315x250%23cb/d2eiXz.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://hobgoblog.itch.io/the-last-waltz
+    language: en
+    type: ebook
+    pricing: pwyw

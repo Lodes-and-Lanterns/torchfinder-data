@@ -1,0 +1,28 @@
+id: the-undying-maiden
+title: The Undying Maiden - Free Edition
+authors:
+  - Leviathanapsu
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Ruins
+themes:
+  - Mystery
+desc: 'A multi-floor dungeon adventure set in the Towerfall ruins. Can the party end the suffering of the Undying Maiden who haunts its grounds, doomed to die horribly once a month? Includes a new monster, treasure, and a color-coded map. This free edition is eight pages. The paid expansion of the same name refines it to sixteen, augmenting the depth and breadth with additional features.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTg0OTA0LmpwZw==/315x250%23cb/jE2qIL.jpg'
+date: "2024-08"
+included_in:
+  - the-undying-maiden-expanded-edition
+links:
+  - title: itch.io
+    url: https://leviathanapsu.itch.io/the-undying-maiden
+    language: en
+    type: ebook
+    pricing: free

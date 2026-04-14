@@ -1,0 +1,27 @@
+id: the-swine-of-aeaea-borisundead
+title: The Swine of Aeaea
+authors:
+  - BorisUndead
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Swamp
+  - Dungeon
+themes:
+  - Mystery
+lmin: 3
+lmax: 3
+desc: 'Will the village of Poe''s Lantern be swallowed by the Aeaean Swamp encircling it? With around ten chambers in this dungeon adventure, characters at a minimum of 3rd-level will be tested by a reemerging demi-god. Could her witchy ways have something to do with the missing sailors, so the rumors say?'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTgzMzA0LmpwZw==/315x250%23cb/8BnoiP.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://borisundead.itch.io/the-swine-of-aeaea
+    language: en
+    type: ebook
+    pricing: pwyw

@@ -1,0 +1,31 @@
+id: the-weald-of-the-whispering-water
+title: The Weald of the Whispering Water
+authors:
+  - Ian Dunn (id)
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Swamp
+  - Dungeon
+themes:
+  - Mystery
+  - Survival
+  - Horror
+lmin: 3
+lmax: 4
+pmin: 3
+pmax: 4
+desc: 'Will the party emerge from the fog of a mosquito-infested swamp ravaged by a dwarven mining crew? Three to four 3rd- to 4th-level characters would do well to watch for snakes and avoid tripping over a mud-slathered stone, to say nothing of minding their torches. What awaits them are disembodied murmurs and other inexplicable sounds and sensations creeping in the periphery.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTIzNDAzLnBuZw==/315x250%23cb/Muz1WV.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://iandunn.itch.io/the-weald-of-the-whispering-water
+    language: en
+    type: ebook
+    pricing: pwyw

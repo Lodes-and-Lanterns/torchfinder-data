@@ -1,0 +1,27 @@
+id: roustabout
+title: Roustabout
+authors:
+  - Michael Putlack
+  - Kelsey Dionne
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+character_options:
+  - Roustabout
+desc: 'A class supplement featuring the most average of the average of classes: an abysmally mediocre caricature of peasantry who should''ve stayed in bed. With the Roustabout, even you can play a character whose martial prowess and wit make trimming shrubbery a life-or-death situation.'
+pub: The Arcane Library
+date: "2024-04-01"
+cover: 'https://shadowdarklings.net/Roustabout.png'
+links:
+  - title: Shadowdarklings (class included in the official character builder)
+    url: https://shadowdarklings.net
+    language: en
+    type: web
+    pricing: free
+included_in:
+  - shadowdark-rpg-western-reaches-players-guide
+official: true

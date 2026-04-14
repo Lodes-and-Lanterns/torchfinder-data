@@ -1,0 +1,27 @@
+id: the-nightmare-city-of-dr-satan
+title: The Nightmare City of Dr. Satan
+authors:
+  - BogBaronLimited
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Planar
+  - Urban
+themes:
+  - Weird
+lmin: 4
+lmax: 6
+desc: 'During rest, a party of 4th- to 6th-level characters are teleported to the realm of Dr. Satan. In liminal Legba, a mazelike prison city, they must confront the fruits of unnatural experiments. Will they dispatch their abductor and his minions, returning to their former realm with loot in hand?'
+pub: Indie
+date: "2024-08"
+cover: https://img.itch.zone/aW1nLzE3NTgzNzExLmpwZw==/315x250%23cb/Usj76q.jpg
+links:
+  - title: itch.io
+    url: https://bogbaronlimited.itch.io/the-nightmare-city-of-dr-satan
+    language: en
+    type: ebook
+    pricing: pwyw

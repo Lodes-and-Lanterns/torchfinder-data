@@ -1,0 +1,27 @@
+id: vengeance-from-the-sunken-city
+title: Vengeance from the Sunken City
+authors:
+  - Connor McCloskey
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Underwater
+  - Ruins
+themes:
+  - Action
+  - Exploration
+desc:  'Jewels and the inner workings of "volcano-mechanical" steamworks await those who might venture to the part-submerged city-state of Lanteii to find the Queen''s daughter. It hasn''t been quite the same since an eruption devastated the enslaved population, replacing sorcerer-king Malachar''s relentless and unfeeling reign of antipathy with misleading silence.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTc4ODUzLnBuZw==/315x250%23cb/akrcF4.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://connor-mccloskey.itch.io/vengeance-from-the-sunken-city
+    language: en
+    type: ebook
+    pricing: free
