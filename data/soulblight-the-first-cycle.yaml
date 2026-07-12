@@ -25,7 +25,7 @@ links:
   - title: Amazon (Paperback)
     url: 'https://www.amazon.com/dp/B0FY2JHKZC'
     language: en
-    type: ebook
+    type: print
     pricing: paid
   - title: itch.io
     url: 'https://laurin-david-weggen.itch.io/soulblight-the-first-cycle'
