@@ -41,7 +41,7 @@ jobs:
 
       - name: Checkout
         if: steps.issue-type.outputs.type != 'unknown'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.BOT_TOKEN }}
 
