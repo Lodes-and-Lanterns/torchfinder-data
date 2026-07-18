@@ -1,0 +1,29 @@
+name: Remove entry
+description: Request permanent removal of an entry from the dataset.
+title: "Remove entry: "
+labels: [remove-entry]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request that an entry be permanently removed from the Torchfinder dataset.
+
+        Once removed, the entry's ID is permanently blocked from being re-added through automation. A curator will review your request before any action is taken.
+
+  - type: input
+    id: entry-id
+    attributes:
+      label: Entry ID
+      description: The ID slug of the entry to remove. Press the `Copy ID` button in the Torchfinder app and paste it here.
+      placeholder: e.g. shadowdark-rpg
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for removal
+      description: Why should this entry be removed? Please be specific.
+      placeholder: e.g. The publisher has requested this product not be listed in the dataset.
+    validations:
+      required: true

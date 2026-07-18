@@ -1,0 +1,24 @@
+id: histories-of-the-planes
+title: Histories of the Planes
+authors:
+  - Keith Spears
+categories:
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Planar
+themes:
+  - Exploration
+desc: 'A supplement in which other planes mirror the "Home Plane," detailing extraplanar mechanics, traversal, and their connections to magic, space, and time. Includes random plane generation tables.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODgzMzM5LnBuZw==/315x250%23cb/rzNfWD.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://keithspears.itch.io/histories-of-the-planes
+    language: en
+    type: ebook
+    pricing: free

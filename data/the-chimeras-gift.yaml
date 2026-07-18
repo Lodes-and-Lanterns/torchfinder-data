@@ -1,0 +1,31 @@
+id: the-chimeras-gift
+title: The Chimera's Gift
+authors:
+  - David Northcutt
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Jungle
+  - Dungeon
+  - Temple
+themes:
+  - Action
+  - Weird
+lmin: 2
+lmax: 3
+desc: 'Minds surrendered to the sweltering humidity of an island jungle, a cult of naturalists seal themselves within a temple, honing their ingenuity in a shared fever dream. 2nd- to 3rd-level characters breach the structure, discovering the products of prolonged, unmitigated derangement. There are treasures to come away with, including a new magic item, but only if the party can maintain their own sanity through this 31-room dungeon accompanied by seven precision-engineered monsters.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTQ5ODY4LnBuZw==/315x250%23cb/sZwS%2B8.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://dnorthcutt.itch.io/the-chimeras-gift
+    language: en
+    type: ebook
+    pricing: pwyw

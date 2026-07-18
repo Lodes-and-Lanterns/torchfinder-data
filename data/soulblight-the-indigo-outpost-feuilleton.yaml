@@ -1,0 +1,20 @@
+id: soulblight-the-indigo-outpost-feuilleton
+title: Soulblight - The Indigo Outpost Feuilleton
+authors:
+  - Laurin David Weggen
+categories:
+  - Zine
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+desc: 'A seven-issue broadsheet zine expanding each of Lothorian''s regions, from the Lothor Desert to the Blue Glades. Each issue adds regional lore, monster ecologies, bounty targets, new items, and locations for Soulblight campaigns.'
+cover: 'https://img.itch.zone/aW1nLzEzNDE2MTY5LmpwZw==/315x250%23cb/28Zq%2BA.jpg'
+links:
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-the-indigo-outpost-feuilleton'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2023"

@@ -1,0 +1,30 @@
+id: choice-of-life
+title: Choice of Life
+authors:
+  - Erik Frankhouse
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Wilderness
+themes:
+  - Horror
+  - Weird
+lmin: 3
+lmax: 4
+character_options:
+  - Fleaborn
+desc: 'Opportunity arises for 3rd- to 4th-level characters when the daughter of a werewolf family ferries them through a portal to the far side of the moon... but later betrays her own kin. The fleaborn are now intent on flushing the bloodline out from their peaceful existence in Hothers Valley. Features new monsters such as the "Worm that Walks," a new class, and magical gear.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTg1ODIzLnBuZw==/315x250%23cb/SX%2FUeA.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://erikfrankhousepresents.itch.io/choice-of-life
+    language: en
+    type: ebook
+    pricing: pwyw

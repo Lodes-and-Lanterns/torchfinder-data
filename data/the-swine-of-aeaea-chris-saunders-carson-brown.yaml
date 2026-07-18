@@ -1,0 +1,31 @@
+id: the-swine-of-aeaea-chris-saunders-carson-brown
+title: The Swine of Aeaea
+authors:
+  - Chris Saunders
+  - Carson Brown
+categories:
+  - Adventure
+  - One-Shot
+  - Pointcrawl
+  - Zine
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Dungeon
+  - Forest
+themes:
+  - Mystery
+  - Exploration
+desc: 'When newlyweds on a honeymoon retreat on the island of Aeaea disappear, its past unravels for the proprietor in charge. To keep the reputation of his business intact, he''s hired the party to lead the search in this single-session pointcrawl. Designed for existing campaigns and one-shots. The five-chamber dungeon, found through querying several inhabitants of the isle, will clue the characters in on the alchemist who once polymorphed her company into boars for the mildest of transgressions. They could come away with up to two interesting items.'
+pub: Single Stage to Orbit Press
+cover: 'https://img.itch.zone/aW1nLzE3NTcwNzQ0LmpwZw==/315x250%23cb/lzES8E.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://csaunders.itch.io/the-swine-of-aeaea
+    language: en
+    type: ebook
+    pricing: paid

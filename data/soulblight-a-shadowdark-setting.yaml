@@ -1,0 +1,35 @@
+id: soulblight-a-shadowdark-setting
+title: Soulblight - A Shadowdark Setting
+authors:
+  - Laurin David Weggen
+categories:
+  - Bestiary
+  - Rules
+  - Supplement
+systems:
+  - Shadowdark
+settings:
+  - Soulblight
+envs:
+  - Desert
+  - Jungle
+  - Mountain
+character_options:
+  - Red Monk
+  - Occultist
+pages: 191
+desc: 'The first-ever major third-party campaign setting for Shadowdark, set in the kingdom of Lothorian as it succumbs to the Soulblight: a spreading corruption unleashed by the awakened Sovereigns. Covers all seven regions with maps, two new classes, over 100 monsters, and optional survival and corruption rules.'
+cover: 'https://img.itch.zone/aW1nLzEzMzgzNDcwLmpwZw==/315x250%23cb/Dhx6iW.jpg'
+links:
+  - title: Amazon
+    url: 'https://www.amazon.com/dp/B0DYDKJKFD'
+    language: en
+    type: print
+    pricing: paid
+  - title: itch.io
+    url: 'https://laurin-david-weggen.itch.io/soulblight-a-shadowdark-setting'
+    language: en
+    type: ebook
+    pricing: paid
+pub: Indie
+date: "2023"

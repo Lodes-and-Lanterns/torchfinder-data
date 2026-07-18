@@ -1,0 +1,28 @@
+id: the-devil-is-in-the-details
+title: The Devil is in The Details
+authors:
+  - Arthur Marques
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Wilderness
+themes:
+  - Weird
+  - Intrigue
+lmin: 2
+lmax: 3
+desc: 'In this one-shot, the members of the party hail from one or more family farms in Boreton. Furthermore, they shall each roleplay as the uniquely mediocre Roustabout class created by Michael Putlack (Night Noon Games) and Kelsey Dionne (The Arcane Library). The party must defend their land against the consequences of a deal with a devil: a magical varmint that might just unravel the secrets held by local farmers.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTgzNDYyLmpwZw==/315x250%23c/xMMsmi.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://marquesarthur.itch.io/the-devil-is-in-the-details
+    language: en
+    type: ebook
+    pricing: pwyw

@@ -1,0 +1,29 @@
+id: isle-of-the-evil-eye
+title: Isle of the Evil Eye
+authors:
+  - Itch_Rokas
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Dungeon
+  - Stronghold
+themes:
+  - Action
+  - Horror
+lmin: 1
+lmax: 4
+desc: 'After a sea-ringed garrison for viperians was stricken by a conniving devil, its former leader Sesnu has been remade in the form of a serpent. He loyally slithers along the halls, guarding riches and his master in this 1st- to 4th-level adventure.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTcwMTM1LnBuZw==/315x250%23cb/JvAec%2F.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://itch-rokas.itch.io/isle-of-the-evil-eye
+    language: en
+    type: ebook
+    pricing: free

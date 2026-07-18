@@ -1,0 +1,21 @@
+# Build output (artifacts are attached to GitHub releases, not committed)
+dist/
+
+# Deno local cache (if DENO_DIR is set to a project-local path)
+.deno/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

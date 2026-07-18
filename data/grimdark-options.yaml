@@ -1,0 +1,27 @@
+id: grimdark-options
+title: Grimdark Options
+authors:
+  - Lost Heretic Press
+categories:
+  - Supplement
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+themes:
+  - Horror
+character_options:
+  - Plague Doctor
+  - Witch Hunter
+  - Chaos Sorcerer
+desc: 'A foreboding rules supplement, adding three new classes: Plague Doctor, Witch Hunter, and Chaos Sorcerer. Introduces firearms and explosives alongside rules for the corrupting repercussions of evil magic.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODYwMDk0LnBuZw==/315x250%23cb/cvhr%2FF.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://losthereticpress.itch.io/grimdark-options-for-shadowdark-rpg
+    language: en
+    type: ebook
+    pricing: free

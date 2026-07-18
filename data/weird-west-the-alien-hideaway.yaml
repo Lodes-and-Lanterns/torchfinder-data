@@ -1,0 +1,29 @@
+id: weird-west-the-alien-hideaway
+title: 'Weird West: The Alien Hideaway'
+authors:
+  - Orion's Scriptorium
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Desert
+themes:
+  - Action
+  - Comedy
+  - Weird
+lmin: 3
+lmax: 3
+desc: 'A 3rd-level Wild West adventure into the isometric den of an alien-worshipping cult, featuring a legendary pistol to try out in the included gun duel minigame. With thematically illustrated pages, numerous NPCs quirky as can be, and frontier-flavored gear, this is a dungeon crawl that will surely please GMs and players alike with its time-bending personality.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTY5NTEwLmpwZw==/315x250%23cb/XhiJlY.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://oriondevstar.itch.io/the-alien-hideaway-jam
+    language: en
+    type: ebook
+    pricing: pwyw

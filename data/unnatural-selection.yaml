@@ -1,0 +1,37 @@
+id: unnatural-selection
+title: 'Unnatural Selection'
+authors:
+  - Bunni Daniel
+categories:
+  - Supplement
+  - Anthology
+  - Gauntlet
+  - Bestiary
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Battlemaster
+  - Shaman
+  - Grave Warden
+  - Plague Doctor
+  - Ovate
+  - Fiend
+pages: 160
+desc: 'A 160-page supplement with masterful art expanding character options with over 70 spells, new ancestries, backgrounds, classes and carousing opportunities. Over 65 new monsters, rules for new elements, various magic items, and 24 zero-level characters to accompany a zero-level gauntlet adventure and three one-shot adventures.'
+pub: Dungeon Damsel Creations
+date: "2023"
+cover: 'https://dungeondamsel.com/wp-content/uploads/2024/03/dungeondamsel-img42.jpg'
+links:
+  - title: Dungeon Damsel Store
+    url: 'https://dungeondamsel.com/product/unnatural-selection-standard-edition-pdf'
+    language: en
+    type: ebook
+    pricing: paid
+  - title: BackerKit
+    url: 'https://www.backerkit.com/c/projects/dungeon-damsel-creations/unnatural-selection-a-shadowdark-supplement'
+    language: en
+    type: ebook-and-print
+    pricing: paid

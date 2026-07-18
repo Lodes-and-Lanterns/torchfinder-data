@@ -1,0 +1,150 @@
+name: Build and Dispatch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'schema/torchfinder-entry.schema.json'
+      - 'schema/taxonomies/**'
+      - 'schema/removed.yaml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: codeberg-small
+    container:
+      image: node:22-bookworm
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Deno
+        uses: https://github.com/denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Install jq
+        run: apt-get update -qq && apt-get install -y -qq jq
+
+      - name: Compute CalVer tag
+        id: version
+        run: |
+          DATE=$(date -u +%Y.%m.%d)
+
+          EXISTING=$(git tag -l "${DATE}" "${DATE}.*" | sort -t. -k4 -n)
+
+          if [ -z "$EXISTING" ]; then
+            TAG="${DATE}"
+          else
+            LAST=$(echo "$EXISTING" | tail -1)
+            if [ "$LAST" = "${DATE}" ]; then
+              TAG="${DATE}.1"
+            else
+              SUFFIX="${LAST#${DATE}.}"
+              TAG="${DATE}.$((SUFFIX + 1))"
+            fi
+          fi
+
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "Computed tag: $TAG"
+
+      - name: Build
+        run: deno task build
+
+      - name: Detect schema changes and build release notes
+        id: release-notes
+        env:
+          API: https://codeberg.org/api/v1
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PREV_TAG=$(curl -sf -H "Authorization: token ${TOKEN}" \
+            "${API}/repos/${GITHUB_REPOSITORY}/releases/latest" \
+            | jq -r '.tag_name' 2>/dev/null || echo "")
+
+          # If the tag no longer exists in git (e.g. after a history rewrite), treat as no previous release
+          if [ -n "$PREV_TAG" ] && ! git tag -l "$PREV_TAG" | grep -q .; then
+            PREV_TAG=""
+          fi
+
+          # Run schema diff against previous release (if one exists)
+          if [ -n "$PREV_TAG" ]; then
+            deno run --allow-read --allow-run scripts/schema-diff.ts "$PREV_TAG" > schema-diff.json 2>/dev/null \
+              || echo '{"breaking":[],"nonBreaking":[],"hasChanges":false,"hasBreaking":false}' > schema-diff.json
+          else
+            echo '{"breaking":[],"nonBreaking":[],"hasChanges":false,"hasBreaking":false}' > schema-diff.json
+          fi
+
+          # Forgejo has no generate-notes API; a commit log between tags serves the same purpose
+          if [ -n "$PREV_TAG" ]; then
+            RANGE="${PREV_TAG}..HEAD"
+          else
+            RANGE="HEAD"
+          fi
+          {
+            echo "## Changes"
+            echo ""
+            git log --no-merges --pretty='- %s (%h)' "$RANGE"
+          } > generated-notes.txt
+
+          # Prepend breaking-change warning when applicable
+          if [ "$(jq -r '.hasBreaking' schema-diff.json)" = "true" ]; then
+            {
+              echo "## ⚠️ Breaking schema changes"
+              echo ""
+              echo "The following changes may affect consumers of this dataset:"
+              echo ""
+              jq -r '.breaking[] | "- " + .' schema-diff.json
+              echo ""
+              echo "---"
+              echo ""
+              cat generated-notes.txt
+            } > release-notes.txt
+          else
+            cp generated-notes.txt release-notes.txt
+          fi
+
+      - name: Create release
+        env:
+          API: https://codeberg.org/api/v1
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          RELEASE_ID=$(jq -n \
+            --arg tag "$TAG" \
+            --arg body "$(cat release-notes.txt)" \
+            '{tag_name: $tag, name: $tag, body: $body, target_commitish: "main"}' \
+            | curl -sf -X POST \
+              -H "Authorization: token ${TOKEN}" \
+              -H "Content-Type: application/json" \
+              -d @- \
+              "${API}/repos/${GITHUB_REPOSITORY}/releases" \
+            | jq -r '.id')
+
+          echo "Created release ${TAG} (id ${RELEASE_ID})"
+
+          for ASSET in dist/torchfinder-dataset.json dist/torchfinder-dataset.jsonl schema/torchfinder-entry.schema.json; do
+            NAME=$(basename "$ASSET")
+            curl -sf -X POST \
+              -H "Authorization: token ${TOKEN}" \
+              -F "attachment=@${ASSET}" \
+              "${API}/repos/${GITHUB_REPOSITORY}/releases/${RELEASE_ID}/assets?name=${NAME}" \
+              > /dev/null
+            echo "Uploaded ${NAME}"
+          done
+
+      - name: Dispatch reese.biz pages deploy
+        env:
+          API: https://codeberg.org/api/v1
+          TOKEN: ${{ secrets.PAGES_DISPATCH_TOKEN }}
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: token ${TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d '{"ref": "main"}' \
+            "${API}/repos/reese/reese.biz/actions/workflows/pages.yml/dispatches"
+          echo "Dispatched pages deploy"

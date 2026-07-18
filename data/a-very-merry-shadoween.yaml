@@ -1,0 +1,27 @@
+id: a-very-merry-shadoween
+title: A Very Merry Shadowe'en
+authors:
+  - A. Denbigh Strickland
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Island
+  - Forest
+themes:
+  - Horror
+  - Survival
+desc: 'Beholden to squabbling hags, the Island of Hands hauls itself each equinox with multitudes of spindly limbs across the dark. Each hag masquerades as an innocent maiden. When the island''s grasping phalanges pluck the party, placing them in a fog-choked wood at its crown, they must circumvent being remade by the crones'' rituals.'
+pub: Arcane Sporecery
+cover: 'https://img.itch.zone/aW1nLzE4MDcyNjE3LnBuZw==/315x250%23cb/HYQ2pC.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://arcanesporecery.itch.io/a-very-merry-shadoween
+    language: en
+    type: ebook
+    pricing: pwyw

@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Torchfinder Entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "authors",
+    "categories",
+    "systems",
+    "settings",
+    "date"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Unique slug. Must match the filename (without .yaml)."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "authors": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "systems": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "settings": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "envs": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "themes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "lmin": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "lmax": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "pmin": {
+      "type": ["integer", "null"],
+      "minimum": 1
+    },
+    "pmax": {
+      "type": ["integer", "null"],
+      "minimum": 1
+    },
+    "desc": {
+      "type": ["string", "null"]
+    },
+    "pages": {
+      "type": ["integer", "null"],
+      "minimum": 1
+    },
+    "character_options": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "url", "language", "type", "pricing"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "language": { "type": "string", "pattern": "^[a-z]{2,3}(-[A-Za-z]{2,4})?$" },
+          "type": { "type": "string", "minLength": 1 },
+          "pricing": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "cover": {
+      "type": ["string", "null"],
+      "pattern": "^https://"
+    },
+    "pub": {
+      "type": ["string", "null"]
+    },
+    "included_in": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "official": {
+      "type": "boolean",
+      "description": "True if this is official content published by The Arcane Library. Omit (or false) for third-party content."
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$"
+    }
+  }
+}

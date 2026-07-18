@@ -1,0 +1,31 @@
+id: witch-shepherd-his-goats-and-their-daughter
+title: 'The Witch, the Shepherd, His Goats, and Their Daughter'
+authors:
+  - James Mishler
+  - Jodi Moran-Mishler
+categories:
+  - Adventure
+  - Pointcrawl
+  - Funnel
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+themes:
+  - Horror
+  - Exploration
+lmin: 0
+lmax: 10
+pages: 20
+desc: 'A fairy tale point-crawl for 0th- to 10th-level characters, adjustable by difficulty tier. The shepherd''s daughter and goats have been taken by the Witch of the Woods. Twelve forest encounter sites full of "strange, fearsome, and fey monsters" stand between the party and their return, should they best the witch. Ranges from one to three sessions.'
+pub: Indie
+date: "2022-12-10"
+cover: 'https://d1vzi28wh99zvq.cloudfront.net/images/2438/419475.webp'
+links:
+  - title: DriveThruRPG
+    url: 'https://www.drivethrurpg.com/en/product/419475/The-Witch-the-Shepherd-His-Goats-and-Their-Daughter-A-Shadowdark-Adventure'
+    language: en
+    type: ebook
+    pricing: paid

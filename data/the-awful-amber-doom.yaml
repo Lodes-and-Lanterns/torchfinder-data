@@ -1,0 +1,33 @@
+id: the-awful-amber-doom
+title: The Awful AMBER DOOM
+authors:
+  - Reverse Ettin Games
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Sea
+  - Swamp
+  - Urban
+  - Temple
+themes:
+  - Action
+  - Exploration
+lmin: 3
+lmax: 3
+character_options:
+  - Explorer
+desc: 'An ode to the old school in which the City Beneath the Sea upraises out of its oceanic entombment during a once-in-a-century lunar solstice. 3rd-level adventurers must race along coral-enshrouded mazes of driftwood, crawling with homunculytes and other fiends, to stop the Corpse-Master before he augments his power by an order of magnitude. Includes the whip-wielding Explorer class.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3MzMwNjcwLnBuZw==/315x250%23cb/KnEEHL.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://reverse-ettin-games.itch.io/the-awful-amber-doom
+    language: en
+    type: ebook
+    pricing: pwyw

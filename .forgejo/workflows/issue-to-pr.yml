@@ -1,0 +1,35 @@
+name: Issue to PR
+
+# Dispatch-only: run manually with the issue number after reviewing a
+# structured issue and confirming its type label (new-entry, update-entry,
+# or remove-entry) is in place.
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: "Issue number to convert into a PR"
+        required: true
+
+jobs:
+  issue-to-pr:
+    runs-on: codeberg-small
+    container:
+      image: node:22-bookworm
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+
+      - name: Setup Deno
+        uses: https://github.com/denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Run issue-to-pr script
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ISSUE_NUMBER: ${{ inputs.issue_number }}
+        run: deno run --allow-read --allow-write --allow-run --allow-env --allow-net scripts/issue-to-pr.ts

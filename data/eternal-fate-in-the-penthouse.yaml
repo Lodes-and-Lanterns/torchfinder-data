@@ -1,0 +1,27 @@
+id: eternal-fate-in-the-penthouse
+title: Eternal Fate in the Penthouse
+authors:
+  - LaffRaff
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+themes:
+  - Intrigue
+  - Horror
+lmin: 4
+lmax: 4
+desc: 'The faint aroma of cinnamon wafts through a corrupted manor where an agent of seduction, generated with a convenient table, has lured a confidant to the party. Will they rescue their ally, or lose themselves in the deep yellow fog that curls through the sinuous halls?'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTUxODc1LmpwZw==/315x250%23cb/jluE8x.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://laffraff.itch.io/eternal-fate-in-the-penthouse
+    language: en
+    type: ebook
+    pricing: pwyw

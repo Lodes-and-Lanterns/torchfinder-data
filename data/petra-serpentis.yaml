@@ -1,0 +1,27 @@
+id: petra-serpentis
+title: Petra Serpentis
+authors:
+  - CritFail Press
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Dungeon
+themes:
+  - Mystery
+lmin: 1
+lmax: 3
+desc: 'A 1st- to 3rd-level adventure set in a goblin mine near the village of Tilroc. The goblins were after flarestone, a semi-magical ore that can be refined into a fireproof light source. Something else has since moved in. The village is blaming the goblins for missing livestock; they have the wrong culprit.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE4MTk4MC8xMjg4MzcwNi5wbmc=/347x500/lS3Y03.png
+links:
+  - title: itch.io
+    url: https://critfailpress.itch.io/petra-serpentis
+    language: en
+    type: ebook
+    pricing: free

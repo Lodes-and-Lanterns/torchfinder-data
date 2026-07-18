@@ -1,0 +1,28 @@
+id: enigma-of-the-eryx-estate
+title: Enigma of the Eryx Estate
+authors:
+  - Pakkanen
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+themes:
+  - Mystery
+  - Intrigue
+lmin: 1
+lmax: 3
+desc: '1st- to 3rd-level characters must solve a murder mystery of layered and experience-rewarding sub-mysteries by the hush of night. Otherwise, it might be the end of the party. A minimal-prep scenario set in a reclaimed roadside inn that once belonged to the Eryx family. Can the party help merchant Robert E. Wardlove save his distressed daughter?'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTQyMTk3LnBuZw==/315x250%23cb/ZrO4Z7.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://pakkanen.itch.io/enigma-of-the-eryx-estate
+    language: en
+    type: ebook
+    pricing: pwyw

@@ -1,0 +1,28 @@
+id: the-cold-red
+title: The Cold Red
+authors:
+  - Mark Gosbell
+categories:
+  - Adventure
+  - Supplement
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Wilderness
+  - Desert
+themes:
+  - Survival
+  - Exploration
+desc: 'Extreme weather in adventure setting form, with rules for the cold, the heat, and the accumulating stress that goes along with it. "Imagine the Australian outback but with blizzards, droughts and dragons." Features unique equipment, backgrounds, and monsters. The party can (and should) explore camp talents and stress-reduction activities during rest.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzEyNzc4NDQ2LnBuZw==/315x250%23cb/dQkJtq.png'
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://markgosbell.itch.io/the-cold-red
+    language: en
+    type: ebook
+    pricing: free

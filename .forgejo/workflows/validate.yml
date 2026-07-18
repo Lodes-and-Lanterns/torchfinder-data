@@ -1,0 +1,27 @@
+name: Validate
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: codeberg-small
+    container:
+      image: node:22-bookworm
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: https://github.com/denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Test automation scripts
+        run: deno task test
+
+      - name: Validate entries
+        run: deno task validate

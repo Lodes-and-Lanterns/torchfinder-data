@@ -1,0 +1,29 @@
+id: caverns-of-carnage
+title: Caverns of Carnage
+authors:
+  - Scott Swalwell
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Cave
+  - Dungeon
+  - Jungle
+themes:
+  - Action
+  - Horror
+lmin: 1
+lmax: 3
+desc: 'Grimhaven and its subterranean tunnels have set the greedy in motion, yet the jungles are stalked by carving "cultists, cannibals, and a ravenous giant panther." Hooded zealots draped in feather-and-bone jewelry studded with gemstone chips (worth prying from a corpse) stand between 1st- to 3rd-level adventurers and far greater treasures.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NTYxMTczLmpwZw==/315x250%23cb/KLKbe1.jpg'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://sonic-gloom.itch.io/caverns-of-carnage
+    language: en
+    type: ebook
+    pricing: pwyw

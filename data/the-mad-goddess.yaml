@@ -1,0 +1,29 @@
+id: the-mad-goddess
+title: The Mad Goddess
+authors:
+  - Daniel James
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Stronghold
+themes:
+  - Weird
+lmin: 2
+lmax: 3
+pmin: 4
+pmax: 4
+desc: 'Multiplying Grublids and manipulative Cubi, venturing further and further from the rekindled halls of a reawakened goddess'' cobwebbed keep, have increasingly distressed the locals. Can a party of four 2nd- to 3rd-level characters take on these foes within their snake-filled halls, stopping Goddess Sensa''s hunger for domination?'
+pub: Burning Light Press
+cover: 'https://img.itch.zone/aW1nLzE3NTYzMDQxLnBuZw==/315x250%23cb/KoyDh9.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://burninglightpress.itch.io/the-mad-goddess
+    language: en
+    type: ebook
+    pricing: pwyw

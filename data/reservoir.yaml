@@ -1,0 +1,30 @@
+id: reservoir
+title: RESERVOIR
+authors:
+  - Cameron Maas
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Horror
+  - Weird
+lmin: 3
+lmax: 4
+pages: 32
+desc: >
+  A "body horror puzzle dungeon." What do you know? Why, there's a huge mass of sentient meat bursting within the serpentine sewers below The Great City. Features 25+ keyed locations, colorful (and disgusting) illustrations, and environs that morph over time.
+pub: Indie
+date: "2026-07"
+cover: https://images.backerkit.com/active_storage/backerkit_production/blob/a92n9xe8hf8jpodqkx1qemxlu1ya?ixlib=rails-4.3.1&auto=compress%2Cformat&cs=srgb&ar=16%3A9&fit=crop&w=896&dpr=1&q=75
+links:
+  - title: BackerKit
+    url: https://www.backerkit.com/c/projects/cameron-maas/reservoir
+    language: en
+    type: ebook-and-print
+    pricing: paid

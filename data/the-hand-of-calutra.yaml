@@ -1,0 +1,25 @@
+id: the-hand-of-calutra
+title: The Hand of Ca'Lutra
+authors:
+  - abresch
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Urban
+themes:
+  - Action
+desc: 'When the empress Ca''Lutra comes to town, her left hand flings hordes of undead upon its denizens with the utmost disregard for their emotional well-being. Will the adventurers, who just so happened to be strolling by during this calamity, save the day?'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3NDg2MDU3LnBuZw==/315x250%23cb/dGvLT4.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://abresch.itch.io/the-hand-of-calutra
+    language: en
+    type: ebook
+    pricing: pwyw

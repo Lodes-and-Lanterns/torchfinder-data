@@ -1,0 +1,28 @@
+id: cricket-creek-hollow
+title: Cricket Creek Hollow
+authors:
+  - Hollow Press
+categories:
+  - Supplement
+  - Mini-Campaign
+  - Hexcrawl
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Forest
+  - Wilderness
+  - Ruins
+themes:
+  - Exploration
+desc: 'Long ago The Wild Wood swallowed the Belirian Empire; the land is now a reclaimed wilderness of scattered ruins. The village of Cricket Creek Hollow is the last inhabited place in the region, hosting a lore-laden hexcrawl with four new monsters, a name generator, and a treasure tournament.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODc2NDAwLnBuZw==/315x250%23cb/%2BIMjia.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://hollow-press.itch.io/cricket-creek-hollow
+    language: en
+    type: ebook
+    pricing: free

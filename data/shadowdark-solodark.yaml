@@ -1,0 +1,29 @@
+id: shadowdark-solodark
+title: 'SoloDark: Solo Rules for Shadowdark RPG'
+authors:
+  - Kelsey Dionne
+categories:
+  - Rules
+  - Solo
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+  - Western Reaches
+desc: 'The official solo rules for Shadowdark RPG: a 12 pages of details describing an oracle system, random prompt tables, dungeon name generator, and alternate mechanics for GMless solo play. The ebook by itself is free.'
+pages: 12
+cover: 'https://www.thearcanelibrary.com/cdn/shop/files/SoloDark_Cover_Shadowdark_RPG_2000x.jpg'
+links:
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/solodark-solo-rules-for-shadowdark-rpg-print-pdf'
+    language: en
+    type: ebook-and-print
+    pricing: paid
+  - title: The Arcane Library
+    url: 'https://www.thearcanelibrary.com/products/solodark-solo-rules-for-shadowdark-rpg-pdf'
+    language: en
+    type: ebook
+    pricing: free
+pub: The Arcane Library
+official: true
+date: "2023-06"

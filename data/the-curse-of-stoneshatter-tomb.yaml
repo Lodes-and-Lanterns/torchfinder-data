@@ -1,0 +1,26 @@
+id: the-curse-of-stoneshatter-tomb
+title: The Curse of Stoneshatter Tomb
+authors:
+  - Jeff Mueller
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+lmin: 2
+lmax: 2
+desc: >
+  A second-level adventure designed for one-shots and conventions. Characters descend into a long-sealed dwarven mountain tomb and face the curse that has festered within it.
+pub: Jerd Productions
+date: "2026-05"
+cover: https://i.kickstarter.com/assets/052/143/456/1dff388d5749ef464071253b4bdc07c9_original.jpg?fit=scale-down&origin=ugc&q=92&v=1767789623&width=680&sig=%2B9T54W0RE3qQCfcrjXlOyroMTMX%2FqLWNIRBQ0LCu9Mw%3D
+links:
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/jerdproductions/the-curse-of-stoneshatter-tomb-a-shadowdark-adventure
+    language: en
+    type: ebook-and-print
+    pricing: paid

@@ -1,0 +1,28 @@
+id: into-the-halls-of-havoc
+title: Into the Halls of Havoc
+authors:
+  - Black Magician
+categories:
+  - Adventure
+  - One-Shot
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+themes:
+  - Action
+  - Horror
+lmin: 3
+lmax: 4
+desc: 'A tomb for 3rd- to 4th-level characters to explore in which the warrior Havoc was sealed alongside his legendary sword: Ravager. Recovering it means cutting through wave after wave of undead while solving a dungeon-spanning puzzle.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzEyODMzOTY5LnBuZw==/315x250%23cb/nYaaeQ.png
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://black-magick.itch.io/into-the-halls-of-havoc
+    language: en
+    type: ebook
+    pricing: pwyw

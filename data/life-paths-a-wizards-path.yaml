@@ -1,0 +1,24 @@
+id: life-paths-a-wizards-path
+title: "Life-Paths: A Wizard's Path"
+authors:
+  - Daniel James
+categories:
+  - Supplement
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Wizard
+desc: >
+  A life-story supplement in which a wizard's past choices and dice rolls have lingering implications for the present: boons (perks) and banes (penalties).
+pub: Burning Light Press
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE3NzMxMS8xMjg1NTc2My5wbmc=/347x500/R23ev8.png
+links:
+  - title: itch.io
+    url: https://burninglightpress.itch.io/life-paths-a-wizards-path
+    language: en
+    type: ebook
+    pricing: pwyw

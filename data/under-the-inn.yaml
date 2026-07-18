@@ -1,0 +1,26 @@
+id: under-the-inn
+title: Under The Inn
+authors:
+  - Alexander Thegrin
+categories:
+  - Adventure
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+envs:
+  - Dungeon
+  - Cave
+themes:
+  - Horror
+  - Action
+desc: 'An isolated inn of ill-repute harbors secrets even worse than rumors would suggest. From interconnected tunnels below, worshippers of the abyssal demon king Dagon prey upon the patrons within, dragging them through the cellar and to a subterranean lake. Offers three different hooks to account for varying party circumstances.'
+pub: Indie
+cover: 'https://img.itch.zone/aW1nLzE3MzM3MDA1LnBuZw==/315x250%23cb/EXFAYY.png'
+date: "2024-08"
+links:
+  - title: itch.io
+    url: https://thegrin.itch.io/under-the-inn
+    language: en
+    type: ebook
+    pricing: free

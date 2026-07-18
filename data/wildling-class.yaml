@@ -1,0 +1,23 @@
+id: wildling-class
+title: Wildling Class
+authors:
+  - Frey Bugbee (Mage vs. Monster)
+categories:
+  - Supplement
+  - Rules
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Wildling
+desc: 'A complete 10-level class emphasizing beast allies ranging from giant dung beetles to terrorbirds and basilisks. Companionship and personalities evolve in accordance with chosen talents. Introduces custom downtime rules alongside the companion system, including armor-crafting from monster remains, new gear, and class titles.'
+pub: Indie
+cover: https://img.itch.zone/aW1nLzIxMzE5MjQwLmpwZw==/315x250%23cb/mg2Au2.jpg
+date: "2023-07"
+links:
+  - title: itch.io
+    url: https://freybugbee.itch.io/wildling-class
+    language: en
+    type: ebook
+    pricing: paid

@@ -1,0 +1,26 @@
+id: fey-and-druid-essentials
+title: Fey and Druid Essentials
+authors:
+  - Jesse E. Olsen
+categories:
+  - Supplement
+  - Bestiary
+systems:
+  - Shadowdark
+settings:
+  - Setting-Agnostic
+character_options:
+  - Druid
+pages: 8
+desc: 'Eight pages of fey and druid content: five fey ancestries, a druid class with six new spells, and three fey monsters. Essentials only; expanded in The Guide to the Fey and Fey Druids.'
+pub: Indie
+date: "2023-07"
+cover: https://img.itch.zone/aW1hZ2UvMjE1MDQ0My8xMjY4MzM2MC5qcGc=/347x500/W2wlL3.jpg
+links:
+  - title: itch.io
+    url: https://jeolsen.itch.io/fey-and-druid-essentials
+    language: en
+    type: ebook
+    pricing: pwyw
+included_in:
+  - the-guide-to-the-fey-and-fey-druids
