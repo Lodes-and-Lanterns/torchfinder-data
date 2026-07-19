@@ -9,7 +9,7 @@
 ////////////////////
 
 /**
- * Parses a GitHub issue form body into a map of field label → value.
+ * Parses a Forgejo issue form body into a map of field label → value.
  *
  * Issue forms render as:
  *   ### Field Label

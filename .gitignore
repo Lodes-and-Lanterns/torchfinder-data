@@ -1,4 +1,4 @@
-# Build output (artifacts are attached to GitHub releases, not committed)
+# Build output (artifacts are attached to Codeberg releases, not committed)
 dist/
 
 # Deno local cache (if DENO_DIR is set to a project-local path)

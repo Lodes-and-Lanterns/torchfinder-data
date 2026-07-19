@@ -269,7 +269,7 @@ async function failWithComment(message: string): Promise<never> {
   console.error(message);
   await forgejoComment(
     ISSUE_NUMBER,
-    `## Automation error\n\n${message}\n\n---\n*This error was reported by the issue-to-pr workflow. Fix the issue and a curator can re-apply the \`ready\` label.*`,
+    `## Automation error\n\n${message}\n\n---\n*This error was reported by the issue-to-pr workflow. Fix the issue body and a maintainer can re-run the workflow.*`,
   );
   await forgejoAddLabel(ISSUE_NUMBER, "bot:error");
   Deno.exit(1);
