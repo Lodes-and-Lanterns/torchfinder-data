@@ -8,7 +8,7 @@ Built by [Reese](https://codeberg.org/reese).
 
 If you've found a problem, feel the urge to contribute, need the data, or want to understand the project in more detail...
 
-**Then proceed to the [wiki](https://github.com/Lodes-and-Lanterns/torchfinder-wiki/wiki)!**
+**Then proceed to the [wiki](https://codeberg.org/reese/torchfinder/wiki)!**
 
 ## Project overview
 
