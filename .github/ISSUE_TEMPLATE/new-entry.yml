@@ -36,7 +36,7 @@ body:
     id: categories
     attributes:
       label: "Categories"
-      description: "One value per line. At least one required. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
+      description: "One value per line. At least one required. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
       placeholder: |
         Adventure
         One-Shot
@@ -47,7 +47,7 @@ body:
     id: systems
     attributes:
       label: "Systems"
-      description: "One per line. At least one required. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
+      description: "One per line. At least one required. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
       placeholder: "Shadowdark"
     validations:
       required: true
@@ -56,7 +56,7 @@ body:
     id: settings
     attributes:
       label: "Settings"
-      description: "One per line. At least one required. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
+      description: "One per line. At least one required. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
       placeholder: "Setting-Agnostic"
     validations:
       required: true
@@ -65,7 +65,7 @@ body:
     id: links
     attributes:
       label: "Links (optional)"
-      description: "One per line: `Title | https://url | language | type | pricing`. Language is an IETF tag (e.g. `en`, `es`). See [link types](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price). Leave blank if no link is available."
+      description: "One per line: `Title | https://url | language | type | pricing`. Language is an IETF tag (e.g. `en`, `es`). See [link types](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price). Leave blank if no link is available."
       placeholder: |
         DriveThruRPG | https://www.drivethrurpg.com/product/000000 | en | ebook | paid
         Read online | https://example.com/mega-ultra-gigadungeon | en | web | free
@@ -83,7 +83,7 @@ body:
     id: envs
     attributes:
       label: "Environments (optional)"
-      description: "Physical locations in the adventure. One per line. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
+      description: "Physical locations in the adventure. One per line. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
       placeholder: |
         Dungeon
         Ruins
@@ -92,7 +92,7 @@ body:
     id: themes
     attributes:
       label: "Themes (optional)"
-      description: "Tone and narrative qualities. One per line. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
+      description: "Tone and narrative qualities. One per line. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
       placeholder: |
         Horror
         Mystery

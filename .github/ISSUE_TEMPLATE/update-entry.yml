@@ -17,7 +17,7 @@ body:
     id: id
     attributes:
       label: "Entry ID"
-      description: "The `id` of the entry you want to update. Press the `Copy ID` button in the Torchfinder app and paste it here.
+      description: "The `id` of the entry you want to update. Press the `Copy ID` button in the Torchfinder app and paste it here."
       placeholder: "mega-ultra-gigadungeon"
     validations:
       required: true
@@ -48,28 +48,28 @@ body:
     id: categories
     attributes:
       label: "Categories"
-      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Includes structural/play-style descriptors (e.g. `One-Shot`, `Hexcrawl`, `Solo`). Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/categories.yaml)."
       placeholder: "(unchanged)"
 
   - type: textarea
     id: systems
     attributes:
       label: "Systems"
-      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/systems.yaml)."
       placeholder: "(unchanged)"
 
   - type: textarea
     id: settings
     attributes:
       label: "Settings"
-      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/settings.yaml)."
       placeholder: "(unchanged)"
 
   - type: textarea
     id: links
     attributes:
       label: "Links"
-      description: "Full replacement list. One per line: `Title | https://url | language | type | pricing`. Leave `(unchanged)` to keep current links. See [link types](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price)."
+      description: "Full replacement list. One per line: `Title | https://url | language | type | pricing`. Leave `(unchanged)` to keep current links. See [link types](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/link_types.yaml). Pricing: `free` = no payment required; `pwyw` = pay what you want from $0 (can be obtained free); `paid` = payment required (fixed price or minimum price)."
       placeholder: "(unchanged)"
 
   - type: input
@@ -83,14 +83,14 @@ body:
     id: envs
     attributes:
       label: "Environments"
-      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/environments.yaml)."
       placeholder: "(unchanged)"
 
   - type: textarea
     id: themes
     attributes:
       label: "Themes"
-      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Lodes-and-Lanterns/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
+      description: "Full replacement list, one per line. Leave `(unchanged)` to keep current values. Refer to [established values](https://github.com/Reese-Dot-Biz/torchfinder-data/blob/main/schema/taxonomies/themes.yaml)."
       placeholder: "(unchanged)"
 
   - type: textarea

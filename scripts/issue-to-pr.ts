@@ -14,7 +14,7 @@
  *   ISSUE_TYPE          "new-entry" | "update-entry" | "remove-entry"
  *
  * Run with:
- *   deno run --allow-read --allow-write --allow-run --allow-env scripts/issue-to-pr.ts
+ *   deno run --allow-read --allow-write --allow-run --allow-env --allow-net scripts/issue-to-pr.ts
  */
 
 import { parse as parseYaml, stringify as stringifyYaml } from "@std/yaml";
@@ -221,7 +221,7 @@ async function runBuild(): Promise<void> {
 
 async function gitSetup(): Promise<void> {
   await run(["git", "config", "user.name", "torchfinder-bot"]);
-  await run(["git", "config", "user.email", "bot@users.noreply.github.com"]);
+  await run(["git", "config", "user.email", "torchfinder-bot@users.noreply.github.com"]);
 }
 
 async function gitCreateBranch(branch: string): Promise<void> {

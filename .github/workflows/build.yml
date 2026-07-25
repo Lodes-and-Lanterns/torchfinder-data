@@ -9,6 +9,7 @@ on:
       - 'schema/torchfinder-entry.schema.json'
       - 'schema/taxonomies/**'
       - 'schema/removed.yaml'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -114,12 +115,11 @@ jobs:
             --title "${{ steps.version.outputs.tag }}" \
             --notes-file release-notes.txt
 
-      - name: Dispatch to torchfinder
+      - name: Dispatch reese.biz pages deploy
         env:
-          GH_TOKEN: ${{ secrets.TORCHFINDER_DISPATCH_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAGES_DISPATCH_TOKEN }}
         run: |
-          TAG="${{ steps.version.outputs.tag }}"
           gh api --method POST \
-            /repos/Lodes-and-Lanterns/torchfinder/dispatches \
+            /repos/Reese-Dot-Biz/reese.biz/dispatches \
             -f event_type=data-updated \
-            -F client_payload[tag]="$TAG"
+            -F client_payload[tag]="${{ steps.version.outputs.tag }}"
